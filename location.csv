@@ -1,0 +1,998 @@
+Location ID,City,State,Postal Code,Region
+"47810,Los Angeles",Los Angeles,California,64974,Central
+"67439,Phoenix",Phoenix,Pennsylvania,42888,East
+"31204,Los Angeles",Los Angeles,California,83811,South
+"41822,Philadelphia",Philadelphia,Georgia,71044,West
+"32276,Dallas",Dallas,Texas,88713,East
+"59408,San Antonio",San Antonio,Georgia,38725,West
+"67929,Houston",Houston,Georgia,83380,West
+"23047,Houston",Houston,Texas,62381,South
+"10882,Houston",Houston,Pennsylvania,20390,West
+"74520,San Diego",San Diego,Texas,90837,West
+"76081,San Antonio",San Antonio,New York,13956,East
+"97000,New York",New York,Michigan,23971,Central
+"11162,Houston",Houston,Ohio,70507,East
+"96033,Phoenix",Phoenix,California,64186,South
+"55235,Los Angeles",Los Angeles,Illinois,62643,South
+"46039,San Antonio",San Antonio,Georgia,84551,East
+"70631,New York",New York,Texas,60481,South
+"42495,Chicago",Chicago,Illinois,61873,East
+"37780,Dallas",Dallas,Georgia,21996,South
+"59206,Houston",Houston,Michigan,16408,Central
+"13833,Los Angeles",Los Angeles,Michigan,18195,South
+"51951,New York",New York,Ohio,60490,East
+"45079,San Diego",San Diego,Georgia,66224,South
+"68602,Los Angeles",Los Angeles,Pennsylvania,78631,West
+"67542,San Jose",San Jose,California,99825,South
+"32553,Houston",Houston,Ohio,11674,West
+"38012,Los Angeles",Los Angeles,Illinois,11168,East
+"29969,San Jose",San Jose,California,93534,West
+"93373,Houston",Houston,Illinois,94029,West
+"35029,Philadelphia",Philadelphia,California,44752,West
+"81878,San Diego",San Diego,California,69156,East
+"11308,Houston",Houston,Texas,86187,East
+"45962,San Diego",San Diego,Illinois,36571,East
+"51187,San Jose",San Jose,Ohio,35075,East
+"38371,Chicago",Chicago,Florida,43900,Central
+"87141,Phoenix",Phoenix,Ohio,12725,East
+"72595,Philadelphia",Philadelphia,Georgia,62044,East
+"35571,Phoenix",Phoenix,Pennsylvania,49887,East
+"83968,New York",New York,Georgia,17543,Central
+"28547,Philadelphia",Philadelphia,California,68001,South
+"22830,Philadelphia",Philadelphia,Georgia,18384,Central
+"49541,New York",New York,Michigan,65620,Central
+"79711,Chicago",Chicago,Pennsylvania,24432,South
+"90164,Philadelphia",Philadelphia,Ohio,42790,South
+"12991,Houston",Houston,Pennsylvania,12718,Central
+"60138,Dallas",Dallas,Pennsylvania,83420,Central
+"72671,Philadelphia",Philadelphia,Michigan,24622,West
+"38554,Philadelphia",Philadelphia,Illinois,58098,West
+"76474,Dallas",Dallas,North Carolina,25348,South
+"79469,Phoenix",Phoenix,California,46122,East
+"50322,Los Angeles",Los Angeles,Florida,72843,East
+"95806,San Antonio",San Antonio,North Carolina,32944,Central
+"57384,San Antonio",San Antonio,Pennsylvania,84117,South
+"58390,New York",New York,New York,12806,Central
+"22495,Philadelphia",Philadelphia,Illinois,78078,Central
+"67771,Houston",Houston,Illinois,53288,East
+"35136,San Diego",San Diego,Ohio,72123,Central
+"50502,Phoenix",Phoenix,California,13496,West
+"89044,Dallas",Dallas,Florida,32027,East
+"63430,Dallas",Dallas,Pennsylvania,71111,East
+"49131,New York",New York,North Carolina,45008,East
+"12382,San Antonio",San Antonio,Ohio,64277,East
+"90061,New York",New York,Pennsylvania,19934,Central
+"30857,San Jose",San Jose,Michigan,46528,West
+"59388,Philadelphia",Philadelphia,Ohio,39281,South
+"39496,San Jose",San Jose,Illinois,35569,West
+"47644,Los Angeles",Los Angeles,Georgia,35312,Central
+"68448,San Diego",San Diego,Ohio,33394,Central
+"96185,Philadelphia",Philadelphia,Pennsylvania,23129,West
+"50825,Los Angeles",Los Angeles,Pennsylvania,59439,Central
+"30349,San Antonio",San Antonio,Florida,13001,South
+"20758,New York",New York,Ohio,40379,Central
+"44137,Los Angeles",Los Angeles,Georgia,60737,South
+"96143,San Jose",San Jose,Texas,68451,East
+"34593,Los Angeles",Los Angeles,North Carolina,17268,South
+"66213,Phoenix",Phoenix,Ohio,59600,East
+"51434,San Antonio",San Antonio,New York,43567,West
+"34836,New York",New York,Georgia,89613,East
+"92447,San Jose",San Jose,Georgia,33675,Central
+"65087,San Jose",San Jose,New York,14848,West
+"56656,New York",New York,Pennsylvania,45366,Central
+"27497,San Jose",San Jose,Georgia,51923,Central
+"55017,San Diego",San Diego,Pennsylvania,47115,East
+"40554,Phoenix",Phoenix,California,18889,East
+"35371,New York",New York,North Carolina,58491,Central
+"73090,Chicago",Chicago,Michigan,37988,Central
+"66459,San Antonio",San Antonio,Florida,47105,South
+"37811,San Antonio",San Antonio,Ohio,55839,West
+"12124,Chicago",Chicago,New York,61013,East
+"48052,San Jose",San Jose,Texas,50053,West
+"47503,Dallas",Dallas,Georgia,42570,South
+"32323,Phoenix",Phoenix,California,53497,East
+"49472,Chicago",Chicago,New York,37605,South
+"91765,New York",New York,Michigan,70761,East
+"12008,Chicago",Chicago,Michigan,89543,South
+"39551,Chicago",Chicago,Michigan,73769,South
+"22259,San Diego",San Diego,Illinois,34804,South
+"72506,San Diego",San Diego,Georgia,62977,East
+"72384,New York",New York,New York,23341,South
+"10744,Los Angeles",Los Angeles,Illinois,23192,West
+"74742,San Diego",San Diego,Ohio,89727,East
+"65505,Phoenix",Phoenix,Pennsylvania,66179,Central
+"91001,Houston",Houston,Texas,39839,Central
+"32463,Phoenix",Phoenix,Texas,59204,Central
+"80893,Chicago",Chicago,Pennsylvania,60842,West
+"97782,San Jose",San Jose,Georgia,36303,West
+"12674,New York",New York,New York,58953,East
+"99810,San Jose",San Jose,California,72831,West
+"19134,Dallas",Dallas,Georgia,13855,South
+"89477,New York",New York,North Carolina,63019,Central
+"65857,San Jose",San Jose,Pennsylvania,18962,East
+"44089,San Jose",San Jose,California,58755,West
+"32452,San Diego",San Diego,North Carolina,67746,Central
+"76695,New York",New York,California,62079,Central
+"15645,San Jose",San Jose,Florida,75616,Central
+"49637,Dallas",Dallas,Illinois,68505,East
+"52864,Los Angeles",Los Angeles,Pennsylvania,62731,East
+"35953,Phoenix",Phoenix,Michigan,57634,South
+"89188,Los Angeles",Los Angeles,Ohio,82872,East
+"83684,Houston",Houston,Florida,24831,West
+"38391,San Diego",San Diego,Michigan,27636,East
+"53710,Phoenix",Phoenix,Texas,11426,East
+"25921,Los Angeles",Los Angeles,North Carolina,16962,South
+"42035,San Diego",San Diego,Ohio,60199,East
+"16371,Houston",Houston,California,94038,South
+"70075,San Jose",San Jose,New York,73955,East
+"67710,Chicago",Chicago,Texas,87735,Central
+"41060,Houston",Houston,California,60339,South
+"64678,San Antonio",San Antonio,New York,26473,East
+"30294,Houston",Houston,Illinois,50013,East
+"17485,Phoenix",Phoenix,Georgia,48497,East
+"81530,Houston",Houston,North Carolina,13172,South
+"78972,San Jose",San Jose,New York,30208,East
+"69493,Dallas",Dallas,Florida,73396,East
+"78989,San Antonio",San Antonio,New York,86014,South
+"95071,Dallas",Dallas,Michigan,47302,South
+"86463,San Jose",San Jose,Florida,60098,South
+"93652,San Jose",San Jose,Illinois,99586,West
+"52454,San Antonio",San Antonio,Georgia,36381,East
+"37276,Houston",Houston,Georgia,55941,South
+"98793,San Antonio",San Antonio,North Carolina,70542,Central
+"72349,Philadelphia",Philadelphia,New York,78401,Central
+"56634,Chicago",Chicago,Texas,19364,Central
+"66810,San Antonio",San Antonio,Pennsylvania,54725,Central
+"43648,Houston",Houston,North Carolina,83743,East
+"39476,Dallas",Dallas,Pennsylvania,88176,Central
+"53577,Chicago",Chicago,Texas,50991,Central
+"76002,San Antonio",San Antonio,Illinois,58693,Central
+"37139,New York",New York,Pennsylvania,50354,East
+"32038,New York",New York,New York,23302,West
+"28164,Chicago",Chicago,Illinois,83976,Central
+"19790,Philadelphia",Philadelphia,North Carolina,13583,East
+"46408,San Jose",San Jose,California,41114,South
+"96387,San Diego",San Diego,Michigan,24428,South
+"73437,Dallas",Dallas,Pennsylvania,18311,West
+"85453,Houston",Houston,North Carolina,95215,Central
+"39746,Los Angeles",Los Angeles,Florida,55665,West
+"48606,San Antonio",San Antonio,Illinois,99387,East
+"98600,Chicago",Chicago,California,41371,South
+"19174,San Antonio",San Antonio,Pennsylvania,11278,East
+"66977,Chicago",Chicago,Illinois,70154,East
+"46770,San Diego",San Diego,California,51107,West
+"82331,Philadelphia",Philadelphia,California,56663,South
+"49323,Houston",Houston,North Carolina,83204,Central
+"46988,San Diego",San Diego,North Carolina,19850,West
+"88911,Philadelphia",Philadelphia,Texas,65012,Central
+"33940,Philadelphia",Philadelphia,Illinois,52643,East
+"39439,Los Angeles",Los Angeles,Pennsylvania,42817,West
+"49311,Chicago",Chicago,Illinois,45201,East
+"16699,Los Angeles",Los Angeles,Texas,98288,West
+"33625,Philadelphia",Philadelphia,Texas,86083,South
+"18390,San Jose",San Jose,North Carolina,98141,East
+"61529,San Antonio",San Antonio,North Carolina,16112,Central
+"11816,Chicago",Chicago,Texas,49531,Central
+"36468,New York",New York,Michigan,70642,West
+"18519,Los Angeles",Los Angeles,Ohio,44078,South
+"58179,Houston",Houston,Illinois,94197,Central
+"91330,San Jose",San Jose,Texas,83616,West
+"50624,Philadelphia",Philadelphia,Florida,25711,Central
+"12137,Chicago",Chicago,Georgia,83960,East
+"11022,San Diego",San Diego,Illinois,53507,Central
+"72924,San Jose",San Jose,New York,24757,South
+"99381,San Jose",San Jose,New York,24600,West
+"25405,Houston",Houston,Florida,20608,South
+"82720,Houston",Houston,Illinois,89832,Central
+"77588,Chicago",Chicago,Georgia,11236,East
+"37815,Philadelphia",Philadelphia,Texas,35735,East
+"24132,Los Angeles",Los Angeles,Texas,11579,West
+"58934,New York",New York,Pennsylvania,24105,South
+"97576,Philadelphia",Philadelphia,Pennsylvania,11657,South
+"92293,San Antonio",San Antonio,California,96077,West
+"32125,Dallas",Dallas,Texas,61013,South
+"73319,San Antonio",San Antonio,Ohio,77114,East
+"96577,Chicago",Chicago,Ohio,30880,Central
+"54002,Phoenix",Phoenix,Texas,81006,West
+"33291,Philadelphia",Philadelphia,Michigan,76953,Central
+"92724,San Antonio",San Antonio,Pennsylvania,34872,East
+"15801,San Jose",San Jose,Texas,12108,Central
+"70800,Dallas",Dallas,Pennsylvania,18889,South
+"88607,Chicago",Chicago,Illinois,97825,West
+"43677,Los Angeles",Los Angeles,Florida,68526,Central
+"66494,Houston",Houston,Michigan,63347,East
+"93859,San Antonio",San Antonio,Texas,48289,West
+"14931,San Antonio",San Antonio,New York,59339,Central
+"11873,Dallas",Dallas,New York,13336,East
+"43056,San Antonio",San Antonio,Ohio,18632,Central
+"11057,Houston",Houston,Michigan,80042,West
+"96033,Philadelphia",Philadelphia,Illinois,34202,Central
+"91022,Houston",Houston,Georgia,28222,South
+"61418,San Jose",San Jose,Michigan,44445,West
+"67257,Phoenix",Phoenix,New York,62019,South
+"40328,San Antonio",San Antonio,Pennsylvania,17599,Central
+"97178,Chicago",Chicago,Georgia,43256,East
+"75272,San Jose",San Jose,North Carolina,16385,Central
+"60079,San Antonio",San Antonio,California,43751,Central
+"67782,Phoenix",Phoenix,Ohio,27187,Central
+"67403,San Jose",San Jose,Ohio,82168,West
+"55757,Phoenix",Phoenix,Florida,62572,South
+"73959,New York",New York,Michigan,44938,South
+"36307,San Diego",San Diego,Ohio,72111,Central
+"15193,San Jose",San Jose,Michigan,37494,East
+"40432,Dallas",Dallas,California,42360,South
+"44721,Phoenix",Phoenix,Michigan,74085,Central
+"82397,San Diego",San Diego,Pennsylvania,13891,Central
+"37725,Los Angeles",Los Angeles,North Carolina,63406,East
+"40879,San Antonio",San Antonio,Florida,54394,West
+"66735,San Diego",San Diego,Texas,97477,South
+"39450,San Antonio",San Antonio,California,24370,Central
+"30022,New York",New York,Georgia,80862,South
+"88952,New York",New York,New York,35105,South
+"20686,Dallas",Dallas,California,59570,South
+"78295,San Antonio",San Antonio,Illinois,24995,Central
+"29718,Los Angeles",Los Angeles,Texas,40655,West
+"73428,Phoenix",Phoenix,Georgia,22572,East
+"90097,New York",New York,Pennsylvania,59813,Central
+"68302,Los Angeles",Los Angeles,Ohio,20018,Central
+"94286,Chicago",Chicago,North Carolina,37616,East
+"23759,New York",New York,Illinois,28829,Central
+"55123,Los Angeles",Los Angeles,Florida,87711,West
+"11940,Philadelphia",Philadelphia,Ohio,67208,South
+"14516,Philadelphia",Philadelphia,Texas,11772,West
+"44235,New York",New York,Michigan,50052,Central
+"71676,Los Angeles",Los Angeles,Georgia,42522,East
+"16391,San Diego",San Diego,North Carolina,21878,East
+"14241,San Diego",San Diego,California,16794,Central
+"74703,Phoenix",Phoenix,North Carolina,45369,East
+"40781,San Jose",San Jose,Texas,20865,West
+"86650,Phoenix",Phoenix,Texas,24251,West
+"79322,Houston",Houston,California,97076,South
+"36960,Los Angeles",Los Angeles,Texas,62128,East
+"86520,San Jose",San Jose,Georgia,56584,South
+"88827,Philadelphia",Philadelphia,Illinois,83624,Central
+"39034,New York",New York,Texas,37482,Central
+"63853,New York",New York,Texas,37853,Central
+"79869,Houston",Houston,New York,56137,East
+"84206,San Antonio",San Antonio,Georgia,23617,East
+"81417,Phoenix",Phoenix,North Carolina,55415,Central
+"67271,San Antonio",San Antonio,Pennsylvania,16972,East
+"27155,San Diego",San Diego,Michigan,52936,Central
+"79771,Philadelphia",Philadelphia,Georgia,78619,South
+"77353,San Antonio",San Antonio,California,63319,East
+"78895,New York",New York,New York,18725,West
+"87807,Philadelphia",Philadelphia,Pennsylvania,28072,Central
+"27629,San Antonio",San Antonio,Texas,40577,Central
+"53167,Chicago",Chicago,Pennsylvania,84149,East
+"21294,Philadelphia",Philadelphia,Texas,20045,East
+"99708,San Diego",San Diego,Florida,29921,West
+"18154,San Diego",San Diego,Texas,13118,Central
+"61874,San Antonio",San Antonio,Texas,42266,East
+"86586,San Diego",San Diego,North Carolina,57145,Central
+"19701,Houston",Houston,California,39123,South
+"25038,San Diego",San Diego,Florida,43234,South
+"44439,San Diego",San Diego,Michigan,38460,South
+"95744,San Jose",San Jose,Pennsylvania,98216,East
+"28629,Phoenix",Phoenix,California,41240,Central
+"24688,San Antonio",San Antonio,Illinois,63606,West
+"14794,San Diego",San Diego,Michigan,75826,South
+"92000,Los Angeles",Los Angeles,Illinois,26874,West
+"33162,San Jose",San Jose,North Carolina,25506,West
+"41103,Dallas",Dallas,Michigan,32952,East
+"75501,Phoenix",Phoenix,Georgia,61184,West
+"85520,San Diego",San Diego,Georgia,20475,East
+"80960,San Antonio",San Antonio,Georgia,79630,Central
+"91683,San Antonio",San Antonio,Florida,87248,Central
+"31272,Houston",Houston,Texas,22655,West
+"31095,New York",New York,Illinois,61925,Central
+"66199,San Antonio",San Antonio,Pennsylvania,81492,Central
+"67148,Los Angeles",Los Angeles,California,76465,Central
+"84970,San Antonio",San Antonio,Pennsylvania,71737,South
+"20606,San Antonio",San Antonio,Ohio,51041,Central
+"91952,New York",New York,Illinois,27513,West
+"37478,San Diego",San Diego,Texas,63841,South
+"43408,Dallas",Dallas,Texas,83995,South
+"53779,Phoenix",Phoenix,Illinois,12138,South
+"63761,Los Angeles",Los Angeles,Florida,80965,Central
+"81863,San Jose",San Jose,Michigan,15550,West
+"91604,San Antonio",San Antonio,North Carolina,50413,East
+"45079,Philadelphia",Philadelphia,California,30666,South
+"47349,San Antonio",San Antonio,Illinois,50174,West
+"73895,San Antonio",San Antonio,Pennsylvania,16633,South
+"26503,Dallas",Dallas,Georgia,42518,South
+"27729,San Diego",San Diego,New York,91520,East
+"82181,Phoenix",Phoenix,California,74357,West
+"81789,Phoenix",Phoenix,Texas,32917,Central
+"96077,San Jose",San Jose,New York,56260,South
+"11756,San Jose",San Jose,Florida,87714,East
+"77932,San Diego",San Diego,Texas,20614,East
+"45708,Phoenix",Phoenix,Pennsylvania,88579,West
+"45818,Houston",Houston,Illinois,84050,West
+"11609,Dallas",Dallas,Illinois,33834,West
+"54265,Dallas",Dallas,Illinois,71660,East
+"98697,Phoenix",Phoenix,Ohio,42972,West
+"18238,San Jose",San Jose,New York,82098,Central
+"25079,Phoenix",Phoenix,Florida,76486,East
+"63874,San Jose",San Jose,Georgia,50774,Central
+"58305,Chicago",Chicago,Georgia,99181,South
+"32379,San Jose",San Jose,Georgia,50623,East
+"91600,Dallas",Dallas,Georgia,29807,South
+"45576,San Diego",San Diego,New York,77027,South
+"30784,Phoenix",Phoenix,Michigan,35615,South
+"80327,Philadelphia",Philadelphia,Ohio,88512,Central
+"84952,Philadelphia",Philadelphia,Michigan,40750,West
+"19034,Phoenix",Phoenix,North Carolina,69337,East
+"85213,Dallas",Dallas,Ohio,46305,West
+"64395,San Diego",San Diego,Georgia,85601,Central
+"11948,Philadelphia",Philadelphia,Texas,70709,South
+"55221,Philadelphia",Philadelphia,Florida,65532,South
+"41277,Los Angeles",Los Angeles,California,20539,Central
+"56163,Philadelphia",Philadelphia,Ohio,98963,East
+"65478,Los Angeles",Los Angeles,Michigan,84145,East
+"79659,Phoenix",Phoenix,Illinois,19389,East
+"28963,Houston",Houston,Georgia,80419,Central
+"31221,San Jose",San Jose,Illinois,27886,East
+"79267,Houston",Houston,Pennsylvania,71001,Central
+"32283,Houston",Houston,Ohio,42003,West
+"36602,San Antonio",San Antonio,Florida,42647,West
+"84740,San Jose",San Jose,North Carolina,18806,Central
+"68296,San Antonio",San Antonio,Michigan,65941,East
+"34400,San Diego",San Diego,Illinois,76983,South
+"80999,San Diego",San Diego,Michigan,21139,West
+"69490,Los Angeles",Los Angeles,Ohio,10340,Central
+"57340,San Antonio",San Antonio,Georgia,88485,West
+"95011,Houston",Houston,New York,26201,West
+"58050,New York",New York,Ohio,21287,East
+"62726,San Jose",San Jose,Pennsylvania,85629,South
+"49970,Dallas",Dallas,Michigan,61309,West
+"90491,New York",New York,California,42654,West
+"37799,Chicago",Chicago,Michigan,18238,Central
+"74889,San Jose",San Jose,Florida,94812,Central
+"14711,San Diego",San Diego,Illinois,17783,South
+"91357,New York",New York,Pennsylvania,96638,East
+"55249,Philadelphia",Philadelphia,New York,56091,West
+"43275,Los Angeles",Los Angeles,New York,20634,East
+"70317,Phoenix",Phoenix,Georgia,53885,East
+"69828,Phoenix",Phoenix,Illinois,70710,West
+"28736,San Diego",San Diego,Georgia,37263,West
+"55595,Philadelphia",Philadelphia,Florida,47015,South
+"86657,Phoenix",Phoenix,Texas,28752,Central
+"55697,Los Angeles",Los Angeles,North Carolina,61222,South
+"23573,New York",New York,California,38579,South
+"26860,Philadelphia",Philadelphia,New York,37789,South
+"79495,New York",New York,Ohio,19626,West
+"85299,Los Angeles",Los Angeles,New York,47975,West
+"43601,Los Angeles",Los Angeles,Florida,12025,East
+"12290,San Antonio",San Antonio,Georgia,53556,East
+"80797,Dallas",Dallas,New York,85638,Central
+"22358,San Jose",San Jose,Texas,95614,East
+"86513,San Jose",San Jose,California,72154,South
+"32675,Phoenix",Phoenix,California,97431,South
+"82880,San Jose",San Jose,Georgia,20121,East
+"58418,Dallas",Dallas,California,84182,Central
+"87689,San Diego",San Diego,Illinois,14957,West
+"70947,Dallas",Dallas,Georgia,45862,Central
+"83635,San Jose",San Jose,Texas,22514,West
+"66269,Dallas",Dallas,Pennsylvania,15346,East
+"14687,Phoenix",Phoenix,California,90561,South
+"88859,Houston",Houston,Michigan,43055,Central
+"26451,San Jose",San Jose,Illinois,82658,South
+"44712,New York",New York,Illinois,89978,East
+"53351,New York",New York,Georgia,52960,Central
+"54714,Dallas",Dallas,Florida,87187,South
+"74269,San Diego",San Diego,Pennsylvania,46136,South
+"44000,San Jose",San Jose,North Carolina,14648,East
+"70066,New York",New York,California,49126,South
+"81519,Los Angeles",Los Angeles,Florida,31739,Central
+"10527,Phoenix",Phoenix,Texas,71536,Central
+"61139,Houston",Houston,Georgia,57323,West
+"44722,San Jose",San Jose,North Carolina,28693,West
+"95110,New York",New York,New York,45271,West
+"63206,San Antonio",San Antonio,Pennsylvania,25507,East
+"56959,San Antonio",San Antonio,Michigan,74081,East
+"47929,New York",New York,New York,34612,East
+"37634,Dallas",Dallas,Texas,67985,West
+"18826,Phoenix",Phoenix,Florida,52281,West
+"69280,New York",New York,Texas,97599,Central
+"34306,San Antonio",San Antonio,Pennsylvania,42655,South
+"48276,San Diego",San Diego,North Carolina,55098,East
+"76896,San Diego",San Diego,Florida,94158,South
+"99646,San Antonio",San Antonio,Texas,25191,East
+"50669,Dallas",Dallas,Georgia,18939,West
+"55631,Dallas",Dallas,Georgia,26413,East
+"48546,Phoenix",Phoenix,Florida,53242,South
+"66935,Philadelphia",Philadelphia,Michigan,79838,South
+"28843,Los Angeles",Los Angeles,New York,51251,South
+"68583,New York",New York,Georgia,58723,West
+"71997,San Antonio",San Antonio,Texas,50381,Central
+"40108,Los Angeles",Los Angeles,Michigan,40522,Central
+"17383,San Antonio",San Antonio,Pennsylvania,86902,South
+"12896,New York",New York,Florida,24620,South
+"33142,Houston",Houston,Michigan,19929,Central
+"33677,Los Angeles",Los Angeles,Texas,10524,South
+"91294,San Diego",San Diego,Illinois,88841,Central
+"67142,New York",New York,North Carolina,86830,East
+"60213,Houston",Houston,New York,45489,West
+"64145,San Diego",San Diego,Michigan,70996,West
+"39213,Los Angeles",Los Angeles,Florida,90526,Central
+"45213,San Diego",San Diego,Ohio,80334,West
+"67362,Los Angeles",Los Angeles,Texas,23260,South
+"67322,Phoenix",Phoenix,Illinois,70092,East
+"31831,Chicago",Chicago,Michigan,75647,Central
+"47123,Dallas",Dallas,North Carolina,75636,East
+"10989,Los Angeles",Los Angeles,Pennsylvania,90046,West
+"48934,San Antonio",San Antonio,Pennsylvania,27264,West
+"53876,San Diego",San Diego,Georgia,62776,South
+"48502,Houston",Houston,Texas,11219,Central
+"70902,Dallas",Dallas,Georgia,85086,East
+"50868,Phoenix",Phoenix,North Carolina,69011,East
+"22653,Chicago",Chicago,North Carolina,31658,Central
+"65852,San Antonio",San Antonio,Ohio,22316,South
+"20061,New York",New York,Florida,24804,South
+"53550,San Diego",San Diego,North Carolina,73858,Central
+"47675,San Diego",San Diego,North Carolina,16696,East
+"33692,San Diego",San Diego,Florida,72545,Central
+"98297,San Diego",San Diego,Michigan,61168,South
+"78165,Dallas",Dallas,North Carolina,44137,East
+"18745,Houston",Houston,Georgia,81190,South
+"35501,New York",New York,Illinois,53409,East
+"53112,Philadelphia",Philadelphia,Florida,37649,East
+"57977,Philadelphia",Philadelphia,Ohio,79678,Central
+"80361,Houston",Houston,Michigan,38907,Central
+"89017,Houston",Houston,Michigan,48027,West
+"59280,San Antonio",San Antonio,Florida,29801,Central
+"35147,Dallas",Dallas,New York,57308,South
+"25641,Dallas",Dallas,Texas,60766,South
+"35314,Phoenix",Phoenix,Michigan,68986,South
+"85865,San Jose",San Jose,Michigan,22727,East
+"64895,Philadelphia",Philadelphia,New York,53715,West
+"30827,Los Angeles",Los Angeles,Texas,90830,East
+"99390,Houston",Houston,Georgia,37361,South
+"70671,San Diego",San Diego,New York,39701,South
+"29474,Phoenix",Phoenix,Florida,59157,Central
+"62945,Dallas",Dallas,Georgia,71967,West
+"84245,San Diego",San Diego,New York,93634,South
+"46354,Philadelphia",Philadelphia,California,72154,East
+"18202,Dallas",Dallas,Michigan,20015,South
+"25794,Philadelphia",Philadelphia,California,75484,East
+"22503,Philadelphia",Philadelphia,California,74654,West
+"57567,Chicago",Chicago,California,22105,South
+"70963,San Diego",San Diego,Illinois,50884,Central
+"20772,Chicago",Chicago,Georgia,44669,South
+"94220,Houston",Houston,Florida,43145,Central
+"19347,San Jose",San Jose,Illinois,76208,Central
+"25576,San Antonio",San Antonio,California,13305,East
+"34583,Phoenix",Phoenix,Michigan,65091,Central
+"68176,Phoenix",Phoenix,North Carolina,96219,Central
+"92900,Los Angeles",Los Angeles,Georgia,71539,West
+"17485,Dallas",Dallas,Georgia,56431,South
+"48069,Houston",Houston,New York,22207,Central
+"70699,Los Angeles",Los Angeles,California,93465,East
+"11047,Chicago",Chicago,Illinois,47512,East
+"22471,New York",New York,North Carolina,67545,West
+"42991,Philadelphia",Philadelphia,Florida,65805,West
+"21758,San Jose",San Jose,Texas,64805,East
+"32497,San Antonio",San Antonio,California,32013,Central
+"44126,Los Angeles",Los Angeles,Ohio,18851,West
+"28180,Houston",Houston,Pennsylvania,41216,East
+"75185,Los Angeles",Los Angeles,Georgia,42665,South
+"36292,Phoenix",Phoenix,Texas,93390,Central
+"72840,San Antonio",San Antonio,California,30267,East
+"33367,Chicago",Chicago,North Carolina,94225,West
+"58571,New York",New York,Florida,15913,West
+"31425,Phoenix",Phoenix,Texas,34381,Central
+"69123,Houston",Houston,California,90845,South
+"99074,Los Angeles",Los Angeles,Ohio,67703,Central
+"96043,New York",New York,Illinois,71049,South
+"34474,Los Angeles",Los Angeles,Texas,89540,East
+"83586,New York",New York,Georgia,57253,West
+"42068,Philadelphia",Philadelphia,California,54593,South
+"17426,New York",New York,Illinois,73235,West
+"30032,San Antonio",San Antonio,California,65693,East
+"78587,Chicago",Chicago,North Carolina,54816,Central
+"81537,Dallas",Dallas,New York,98132,West
+"20139,San Antonio",San Antonio,Ohio,35345,West
+"44803,Los Angeles",Los Angeles,Texas,35805,East
+"93145,Houston",Houston,Pennsylvania,34751,South
+"32726,Houston",Houston,Illinois,44546,East
+"98407,San Antonio",San Antonio,Pennsylvania,72464,South
+"32418,Los Angeles",Los Angeles,Michigan,99721,West
+"89990,Chicago",Chicago,Pennsylvania,31269,East
+"66701,Houston",Houston,California,15269,South
+"39849,Houston",Houston,Pennsylvania,90776,West
+"99663,Los Angeles",Los Angeles,Georgia,76413,South
+"97323,San Jose",San Jose,Georgia,65214,South
+"90480,San Diego",San Diego,California,30987,West
+"26562,Chicago",Chicago,Georgia,56994,East
+"65480,Dallas",Dallas,Pennsylvania,69694,East
+"91978,Houston",Houston,Texas,20772,West
+"11787,San Antonio",San Antonio,Georgia,98278,South
+"49268,Los Angeles",Los Angeles,Georgia,87523,South
+"46579,Los Angeles",Los Angeles,New York,78204,East
+"84093,Houston",Houston,North Carolina,46754,West
+"15719,Houston",Houston,North Carolina,20345,East
+"80313,Philadelphia",Philadelphia,North Carolina,76894,Central
+"96225,Houston",Houston,Georgia,64249,West
+"20134,Houston",Houston,Ohio,79231,South
+"72298,Philadelphia",Philadelphia,Georgia,30125,West
+"22856,Los Angeles",Los Angeles,New York,66807,West
+"34177,Houston",Houston,Texas,23433,East
+"44961,Houston",Houston,California,61013,West
+"14861,Houston",Houston,Illinois,77109,East
+"42010,New York",New York,Florida,54290,East
+"41615,Chicago",Chicago,Florida,55966,Central
+"70211,Chicago",Chicago,North Carolina,29051,South
+"48799,San Antonio",San Antonio,Michigan,57186,Central
+"98660,San Jose",San Jose,Florida,21450,East
+"99319,New York",New York,Georgia,14667,South
+"64293,San Diego",San Diego,Texas,55747,South
+"35595,Dallas",Dallas,Pennsylvania,48353,West
+"60069,New York",New York,Texas,31127,Central
+"15405,Philadelphia",Philadelphia,North Carolina,96211,East
+"94273,New York",New York,New York,71684,South
+"57334,Dallas",Dallas,New York,57181,South
+"88407,Phoenix",Phoenix,Ohio,27296,East
+"47155,Dallas",Dallas,California,94474,Central
+"40305,San Jose",San Jose,New York,84848,Central
+"16046,San Jose",San Jose,North Carolina,17448,South
+"69904,Chicago",Chicago,Georgia,39924,Central
+"58063,San Antonio",San Antonio,Pennsylvania,53468,Central
+"26499,San Antonio",San Antonio,New York,49751,South
+"65398,Los Angeles",Los Angeles,California,50847,South
+"55701,Houston",Houston,Georgia,37941,South
+"25764,Los Angeles",Los Angeles,Illinois,32691,South
+"13082,Chicago",Chicago,New York,99229,Central
+"33812,Houston",Houston,Illinois,28784,East
+"63466,Dallas",Dallas,Georgia,52313,West
+"52429,New York",New York,Florida,82509,Central
+"33506,Chicago",Chicago,Texas,96266,West
+"19734,Dallas",Dallas,Florida,65452,East
+"69112,San Diego",San Diego,Illinois,65914,East
+"97996,San Jose",San Jose,Florida,72000,Central
+"46632,Houston",Houston,Georgia,15303,South
+"69135,San Diego",San Diego,North Carolina,92106,Central
+"25639,Dallas",Dallas,California,73953,South
+"48783,Phoenix",Phoenix,Florida,44699,West
+"10862,Philadelphia",Philadelphia,California,80818,Central
+"96966,Dallas",Dallas,Michigan,85734,Central
+"82976,New York",New York,Georgia,82306,Central
+"55175,San Antonio",San Antonio,Pennsylvania,52875,Central
+"64329,San Diego",San Diego,California,18383,South
+"84074,Los Angeles",Los Angeles,Texas,48711,West
+"34421,San Jose",San Jose,Pennsylvania,43528,East
+"39105,Los Angeles",Los Angeles,Illinois,75359,South
+"43961,Houston",Houston,Ohio,73259,East
+"80327,San Jose",San Jose,North Carolina,11915,East
+"81743,Los Angeles",Los Angeles,Illinois,74384,West
+"51336,Phoenix",Phoenix,California,91657,East
+"78948,Chicago",Chicago,Illinois,79069,East
+"59270,Dallas",Dallas,Ohio,51450,East
+"31723,San Diego",San Diego,North Carolina,98004,Central
+"12017,Los Angeles",Los Angeles,New York,53012,West
+"24616,Los Angeles",Los Angeles,Texas,61582,West
+"22367,Los Angeles",Los Angeles,Ohio,63773,South
+"65738,San Antonio",San Antonio,Ohio,18515,East
+"70029,Dallas",Dallas,North Carolina,93753,East
+"14237,San Diego",San Diego,Texas,90234,South
+"16972,Chicago",Chicago,North Carolina,86373,West
+"99312,Dallas",Dallas,Georgia,18500,Central
+"36223,San Antonio",San Antonio,Texas,65963,West
+"19531,Phoenix",Phoenix,Pennsylvania,97008,West
+"57756,San Diego",San Diego,New York,18060,Central
+"32462,Philadelphia",Philadelphia,Georgia,29841,South
+"34277,New York",New York,North Carolina,10196,East
+"66694,San Antonio",San Antonio,Florida,70554,Central
+"62915,Philadelphia",Philadelphia,New York,26106,South
+"83054,Chicago",Chicago,Florida,32909,South
+"41779,San Diego",San Diego,Texas,19848,East
+"50738,Phoenix",Phoenix,Florida,77013,West
+"72828,Houston",Houston,Ohio,51134,Central
+"65289,San Antonio",San Antonio,Ohio,98931,West
+"32536,Dallas",Dallas,Michigan,97335,Central
+"50777,San Diego",San Diego,Pennsylvania,67952,West
+"26329,San Antonio",San Antonio,Michigan,20187,South
+"16665,Dallas",Dallas,Ohio,69709,East
+"97416,Houston",Houston,North Carolina,74631,Central
+"10910,Houston",Houston,Ohio,81062,East
+"87784,San Antonio",San Antonio,Michigan,58119,East
+"55134,Dallas",Dallas,Texas,74366,Central
+"38738,San Diego",San Diego,Texas,59692,South
+"14501,New York",New York,Florida,45329,East
+"27594,Philadelphia",Philadelphia,California,77003,East
+"40466,New York",New York,Michigan,97658,West
+"14309,Chicago",Chicago,California,29833,West
+"56945,New York",New York,Ohio,26257,East
+"87287,San Jose",San Jose,Ohio,49506,West
+"98208,Los Angeles",Los Angeles,Ohio,74810,East
+"16538,San Jose",San Jose,North Carolina,41783,Central
+"47422,San Antonio",San Antonio,Texas,25400,Central
+"39987,Philadelphia",Philadelphia,New York,84636,Central
+"80053,San Diego",San Diego,North Carolina,73879,Central
+"79407,Los Angeles",Los Angeles,Illinois,34430,Central
+"48311,Philadelphia",Philadelphia,Georgia,60984,West
+"49258,Phoenix",Phoenix,Michigan,76554,West
+"70827,Los Angeles",Los Angeles,California,65446,Central
+"77881,Los Angeles",Los Angeles,Texas,80073,West
+"89889,Philadelphia",Philadelphia,Georgia,49789,South
+"58951,San Antonio",San Antonio,Florida,21050,West
+"68466,Philadelphia",Philadelphia,Texas,76481,South
+"80358,Dallas",Dallas,Ohio,31304,South
+"75728,Phoenix",Phoenix,Pennsylvania,14072,South
+"55000,Dallas",Dallas,Pennsylvania,80840,West
+"78064,San Antonio",San Antonio,Georgia,77035,East
+"29313,Philadelphia",Philadelphia,Texas,21651,East
+"54713,Phoenix",Phoenix,Illinois,77421,Central
+"26298,New York",New York,New York,68514,West
+"17493,San Antonio",San Antonio,California,13452,West
+"33993,New York",New York,New York,70953,Central
+"85959,Chicago",Chicago,Michigan,62905,West
+"42832,Los Angeles",Los Angeles,Georgia,94501,West
+"93783,San Diego",San Diego,Florida,55765,Central
+"52099,Philadelphia",Philadelphia,Michigan,71512,South
+"48966,Phoenix",Phoenix,California,11964,Central
+"89978,San Jose",San Jose,Texas,63431,West
+"82000,San Jose",San Jose,Illinois,37174,East
+"95741,San Antonio",San Antonio,Florida,31726,East
+"99541,San Diego",San Diego,California,57004,West
+"58024,San Jose",San Jose,Florida,53639,Central
+"64440,Phoenix",Phoenix,Michigan,76730,Central
+"22033,San Diego",San Diego,Florida,85745,East
+"96537,Houston",Houston,Illinois,38985,South
+"32157,Houston",Houston,Ohio,70051,Central
+"39505,Philadelphia",Philadelphia,Ohio,81289,West
+"18098,Philadelphia",Philadelphia,Ohio,69887,East
+"47953,San Jose",San Jose,Georgia,35346,South
+"85751,Dallas",Dallas,Georgia,97421,East
+"22906,New York",New York,California,56548,Central
+"26526,San Antonio",San Antonio,California,53718,West
+"70718,Phoenix",Phoenix,Georgia,25245,West
+"24605,Phoenix",Phoenix,New York,58255,West
+"20529,Los Angeles",Los Angeles,California,21843,West
+"57908,Philadelphia",Philadelphia,Illinois,10864,South
+"42580,San Diego",San Diego,Michigan,30893,East
+"25287,Chicago",Chicago,Georgia,12964,Central
+"73838,Dallas",Dallas,Pennsylvania,28051,East
+"24886,Houston",Houston,Florida,21327,East
+"24591,Dallas",Dallas,Ohio,56290,West
+"50465,Chicago",Chicago,Michigan,59744,Central
+"84631,San Antonio",San Antonio,Ohio,13375,South
+"62627,New York",New York,Pennsylvania,84731,East
+"18795,San Antonio",San Antonio,Ohio,51267,Central
+"74454,Phoenix",Phoenix,Ohio,36941,South
+"50878,Phoenix",Phoenix,New York,27214,Central
+"89525,San Antonio",San Antonio,Georgia,12707,East
+"59726,Phoenix",Phoenix,Texas,18291,South
+"93069,San Diego",San Diego,New York,78122,South
+"96656,San Jose",San Jose,Pennsylvania,31332,West
+"44386,Phoenix",Phoenix,Georgia,48204,West
+"81408,Philadelphia",Philadelphia,New York,51710,Central
+"37162,New York",New York,New York,83594,West
+"77616,Houston",Houston,New York,47385,Central
+"61256,Philadelphia",Philadelphia,Illinois,83124,Central
+"96819,Chicago",Chicago,Texas,27311,South
+"72126,Houston",Houston,California,18253,South
+"19815,Phoenix",Phoenix,Texas,63884,Central
+"91373,San Antonio",San Antonio,North Carolina,44103,Central
+"43675,San Jose",San Jose,North Carolina,41216,South
+"31337,Houston",Houston,New York,97051,East
+"99603,Chicago",Chicago,Pennsylvania,74337,East
+"26354,Houston",Houston,Georgia,68092,Central
+"31731,Dallas",Dallas,Florida,57750,East
+"19780,New York",New York,Ohio,97404,West
+"14453,Philadelphia",Philadelphia,Illinois,43830,East
+"70775,Houston",Houston,Texas,77279,East
+"40796,San Antonio",San Antonio,Illinois,59352,South
+"23647,San Jose",San Jose,Michigan,41551,East
+"12434,Dallas",Dallas,Georgia,51058,South
+"36450,Houston",Houston,Georgia,88151,East
+"95574,San Jose",San Jose,Michigan,19123,East
+"61594,San Jose",San Jose,California,65240,Central
+"46938,Philadelphia",Philadelphia,Texas,93447,West
+"92708,San Jose",San Jose,Florida,49515,East
+"34909,Los Angeles",Los Angeles,Georgia,13046,Central
+"70355,Philadelphia",Philadelphia,Texas,40024,East
+"68941,San Diego",San Diego,New York,61254,West
+"16842,San Jose",San Jose,Pennsylvania,80562,East
+"33499,Houston",Houston,North Carolina,70892,East
+"74410,Chicago",Chicago,Florida,20796,Central
+"60011,Los Angeles",Los Angeles,California,17268,East
+"33470,Chicago",Chicago,California,29385,South
+"23694,New York",New York,Pennsylvania,50741,East
+"26720,New York",New York,Florida,22525,South
+"36596,Dallas",Dallas,New York,39215,Central
+"71528,Los Angeles",Los Angeles,Ohio,48792,East
+"45549,San Antonio",San Antonio,Georgia,48737,West
+"42822,Chicago",Chicago,New York,42105,South
+"83211,Houston",Houston,Ohio,72062,South
+"71626,Houston",Houston,Pennsylvania,79947,East
+"78167,Philadelphia",Philadelphia,California,87965,East
+"18339,San Jose",San Jose,Texas,25790,Central
+"71577,San Diego",San Diego,Texas,24400,West
+"26559,New York",New York,North Carolina,93524,East
+"13283,Phoenix",Phoenix,Michigan,19940,West
+"82231,Houston",Houston,Illinois,56435,South
+"19583,Philadelphia",Philadelphia,Michigan,53952,Central
+"70122,San Jose",San Jose,Pennsylvania,24961,West
+"55472,Philadelphia",Philadelphia,Illinois,99173,East
+"65829,Phoenix",Phoenix,Texas,77522,East
+"45493,Los Angeles",Los Angeles,California,61904,East
+"14985,New York",New York,Michigan,86688,Central
+"80469,Dallas",Dallas,New York,12915,West
+"99956,Dallas",Dallas,North Carolina,32591,East
+"30277,Los Angeles",Los Angeles,Florida,23848,West
+"37230,San Diego",San Diego,Michigan,24747,Central
+"85799,Phoenix",Phoenix,Pennsylvania,26816,South
+"64194,New York",New York,Florida,91793,West
+"69552,Houston",Houston,Florida,23053,East
+"28347,Phoenix",Phoenix,North Carolina,67640,Central
+"85919,San Diego",San Diego,Pennsylvania,78476,South
+"83706,Los Angeles",Los Angeles,Florida,48584,Central
+"40365,Los Angeles",Los Angeles,New York,79920,West
+"32740,Philadelphia",Philadelphia,California,87780,East
+"20346,Los Angeles",Los Angeles,Illinois,91858,South
+"97889,San Diego",San Diego,Michigan,21214,West
+"49265,Chicago",Chicago,Georgia,17018,South
+"48009,Dallas",Dallas,Pennsylvania,81924,East
+"65937,San Diego",San Diego,Pennsylvania,12493,West
+"60553,San Jose",San Jose,New York,41985,Central
+"19421,Philadelphia",Philadelphia,New York,60241,South
+"38742,New York",New York,North Carolina,58743,South
+"59024,Chicago",Chicago,Florida,26369,East
+"39177,Phoenix",Phoenix,Illinois,26182,South
+"18235,Chicago",Chicago,Texas,42426,West
+"91597,San Antonio",San Antonio,Michigan,22841,East
+"68527,Chicago",Chicago,Pennsylvania,28900,Central
+"13830,Phoenix",Phoenix,Georgia,71878,Central
+"42489,Los Angeles",Los Angeles,Michigan,14662,East
+"13741,Philadelphia",Philadelphia,Georgia,94857,Central
+"79968,New York",New York,North Carolina,69340,South
+"61243,Dallas",Dallas,Michigan,79842,South
+"51019,San Jose",San Jose,California,83173,West
+"45662,San Antonio",San Antonio,Georgia,20878,Central
+"61612,Chicago",Chicago,California,62028,West
+"74026,Phoenix",Phoenix,New York,50427,West
+"48719,Los Angeles",Los Angeles,Florida,56328,East
+"84773,San Jose",San Jose,Texas,28419,South
+"44516,Phoenix",Phoenix,California,24986,East
+"48901,Los Angeles",Los Angeles,New York,94581,West
+"31640,Dallas",Dallas,Michigan,43414,West
+"48245,Philadelphia",Philadelphia,North Carolina,95304,Central
+"99316,Los Angeles",Los Angeles,Florida,95197,South
+"58721,San Diego",San Diego,North Carolina,73137,South
+"14213,Chicago",Chicago,Pennsylvania,96223,East
+"88592,Houston",Houston,Florida,42881,West
+"85805,Houston",Houston,Ohio,81016,East
+"39188,Los Angeles",Los Angeles,Ohio,52952,West
+"59866,San Diego",San Diego,Illinois,31985,South
+"22509,Dallas",Dallas,North Carolina,28181,East
+"87237,San Antonio",San Antonio,Pennsylvania,68812,East
+"47460,San Antonio",San Antonio,North Carolina,22378,Central
+"91612,New York",New York,North Carolina,43332,Central
+"98342,San Antonio",San Antonio,California,93660,East
+"53840,San Antonio",San Antonio,Illinois,37448,Central
+"21580,Chicago",Chicago,New York,87781,Central
+"32574,Los Angeles",Los Angeles,Illinois,99586,Central
+"25966,Philadelphia",Philadelphia,New York,21618,South
+"94942,Philadelphia",Philadelphia,Pennsylvania,75815,South
+"60533,Chicago",Chicago,Georgia,39591,East
+"41919,San Jose",San Jose,Pennsylvania,96247,West
+"65352,Philadelphia",Philadelphia,Georgia,72442,East
+"48217,San Diego",San Diego,California,95394,South
+"28477,Houston",Houston,California,18602,Central
+"70335,Phoenix",Phoenix,California,23433,Central
+"38773,Los Angeles",Los Angeles,Texas,88950,Central
+"37588,Los Angeles",Los Angeles,Ohio,12343,West
+"65272,Chicago",Chicago,California,59526,South
+"84205,Philadelphia",Philadelphia,Pennsylvania,24933,South
+"98017,Phoenix",Phoenix,Pennsylvania,97996,South
+"29118,Philadelphia",Philadelphia,Ohio,93818,West
+"52773,Los Angeles",Los Angeles,Georgia,15299,East
+"94903,Dallas",Dallas,California,74548,West
+"79799,Houston",Houston,Illinois,96154,East
+"53833,New York",New York,Michigan,60551,Central
+"72405,San Diego",San Diego,North Carolina,69517,West
+"10163,Los Angeles",Los Angeles,Michigan,61618,West
+"45189,Chicago",Chicago,California,25775,East
+"10444,Philadelphia",Philadelphia,Georgia,17165,West
+"74767,San Antonio",San Antonio,North Carolina,54135,West
+"20125,Philadelphia",Philadelphia,Pennsylvania,49239,East
+"83680,San Antonio",San Antonio,North Carolina,41107,South
+"16319,Philadelphia",Philadelphia,Georgia,90269,West
+"33507,Los Angeles",Los Angeles,Ohio,49070,West
+"58921,Phoenix",Phoenix,Michigan,10829,South
+"52388,San Jose",San Jose,California,24317,Central
+"65930,New York",New York,Georgia,88821,East
+"37120,Philadelphia",Philadelphia,North Carolina,77256,West
+"68962,Phoenix",Phoenix,North Carolina,27276,East
+"38836,Houston",Houston,California,43652,South
+"44552,New York",New York,New York,51681,East
+"82848,Philadelphia",Philadelphia,Michigan,68032,West
+"16738,Los Angeles",Los Angeles,Georgia,98156,Central
+"64580,Chicago",Chicago,Florida,52484,Central
+"14158,New York",New York,North Carolina,33730,Central
+"64980,San Diego",San Diego,Michigan,76409,West
+"61221,San Diego",San Diego,North Carolina,15915,South
+"10320,Philadelphia",Philadelphia,California,57527,West
+"67853,San Jose",San Jose,Illinois,52613,South
+"54268,Houston",Houston,Illinois,25278,West
+"43515,New York",New York,New York,62410,Central
+"25996,San Jose",San Jose,New York,38818,South
+"96979,San Jose",San Jose,Pennsylvania,88763,East
+"19856,San Jose",San Jose,Georgia,17499,West
+"12550,San Antonio",San Antonio,New York,91672,South
+"78850,Houston",Houston,Michigan,94575,West
+"75868,San Diego",San Diego,Georgia,50457,Central
+"74300,Chicago",Chicago,Ohio,76540,East
+"13864,San Jose",San Jose,Illinois,22602,Central
+"36145,New York",New York,Florida,61546,Central
+"73999,Philadelphia",Philadelphia,Illinois,41143,Central
+"50854,Philadelphia",Philadelphia,Pennsylvania,11094,East
+"22836,Chicago",Chicago,North Carolina,94370,Central
+"69798,San Jose",San Jose,New York,64233,Central
+"95554,Houston",Houston,Michigan,99891,East
+"44595,Philadelphia",Philadelphia,North Carolina,94851,South
+"45412,Chicago",Chicago,California,71645,East
+"42200,Philadelphia",Philadelphia,California,13792,East
+"52066,San Jose",San Jose,Illinois,80884,Central
+"21830,San Jose",San Jose,Ohio,61808,Central
+"28374,Philadelphia",Philadelphia,Georgia,61436,Central
+"18208,San Diego",San Diego,New York,10810,Central
+"63731,Chicago",Chicago,Pennsylvania,11888,South
+"85255,San Jose",San Jose,Georgia,96190,South
+"58130,San Antonio",San Antonio,Pennsylvania,79524,East
+"38336,Los Angeles",Los Angeles,Texas,65658,Central
+"38088,San Antonio",San Antonio,Illinois,18507,East
+"92319,Dallas",Dallas,Florida,97445,East
+"65253,Houston",Houston,New York,11793,Central
+"48793,Dallas",Dallas,Florida,18783,West
+"91755,Phoenix",Phoenix,Pennsylvania,69759,East
+"35869,New York",New York,Texas,18501,Central
+"68262,San Jose",San Jose,Florida,52475,Central
+"13357,Los Angeles",Los Angeles,North Carolina,45105,East
+"75948,New York",New York,Georgia,12093,East
+"43811,San Antonio",San Antonio,Ohio,59343,Central
+"38015,Dallas",Dallas,Texas,18191,Central
+"80435,Chicago",Chicago,Florida,49035,South
+"14572,Houston",Houston,Illinois,63747,South
+"98370,San Jose",San Jose,Texas,87233,East
+"24159,Houston",Houston,North Carolina,70193,West
+"34701,New York",New York,North Carolina,72444,South
+"16134,Chicago",Chicago,New York,16629,South
+"86532,San Antonio",San Antonio,Illinois,65687,Central
+"67244,Chicago",Chicago,Georgia,74618,South
+"71972,San Jose",San Jose,Texas,36562,West
+"75067,Philadelphia",Philadelphia,Illinois,14374,West
+"22379,San Jose",San Jose,Georgia,71268,West
+"59634,Chicago",Chicago,Illinois,47025,West
+"36484,San Jose",San Jose,Illinois,54347,South
+"62883,Dallas",Dallas,Pennsylvania,29140,Central
+"67278,Philadelphia",Philadelphia,California,69872,West
+"32888,Dallas",Dallas,Illinois,80669,East
+"10973,San Antonio",San Antonio,Texas,89636,West
+"66560,San Jose",San Jose,Georgia,19017,East
+"23090,New York",New York,Florida,13949,South
+"11294,San Jose",San Jose,Pennsylvania,83883,Central
+"51617,Chicago",Chicago,California,62277,West
+"20918,San Diego",San Diego,Texas,52126,East
+"10394,Dallas",Dallas,Ohio,64653,West
+"25645,Phoenix",Phoenix,North Carolina,43574,Central
+"31882,Dallas",Dallas,Pennsylvania,78202,South
+"95656,San Diego",San Diego,North Carolina,30450,West
+"68717,Phoenix",Phoenix,Texas,75106,West
+"66636,San Antonio",San Antonio,Ohio,48790,South
+"89047,Philadelphia",Philadelphia,Pennsylvania,99962,West
+"65010,Phoenix",Phoenix,Ohio,90253,East
+"87029,Chicago",Chicago,Florida,68168,South
+"21731,Houston",Houston,Pennsylvania,58088,West
+"17218,Chicago",Chicago,Illinois,80710,West
+"98067,San Jose",San Jose,Ohio,63816,South
+"90017,Chicago",Chicago,Pennsylvania,87585,East
+"92093,New York",New York,Illinois,93271,Central
+"23211,Philadelphia",Philadelphia,California,50959,West
+"40059,Chicago",Chicago,Michigan,39932,South
+"94257,Phoenix",Phoenix,Florida,36873,South
+"44117,Dallas",Dallas,New York,68435,East
+"90367,New York",New York,Florida,62889,South
+"55514,San Diego",San Diego,Ohio,13114,Central
+"14471,San Jose",San Jose,Ohio,15605,West
+"85446,Chicago",Chicago,Illinois,46197,Central
+"82266,San Antonio",San Antonio,California,98234,South
+"31576,Dallas",Dallas,Texas,12136,West
+"62522,San Diego",San Diego,Pennsylvania,64048,Central
+"11143,Dallas",Dallas,Georgia,51133,East
+"12619,San Jose",San Jose,Ohio,43326,East
+"99116,Houston",Houston,Michigan,21110,Central
+"38023,Phoenix",Phoenix,Michigan,80179,South
+"72063,Dallas",Dallas,North Carolina,98590,Central
+"12927,Philadelphia",Philadelphia,New York,32353,West
+"43181,Chicago",Chicago,Texas,65469,West
+"18643,San Jose",San Jose,North Carolina,57585,West
+"71051,Phoenix",Phoenix,North Carolina,91937,East
+"18491,San Antonio",San Antonio,Michigan,63481,West
+"52707,New York",New York,California,19657,East
+"54655,San Diego",San Diego,California,43387,South
+"93531,San Jose",San Jose,Pennsylvania,44289,Central
+"58850,Los Angeles",Los Angeles,Michigan,89563,West
+"51723,Philadelphia",Philadelphia,Ohio,61357,West
+"20871,New York",New York,Illinois,15995,Central
+"44906,New York",New York,California,83617,Central
+"69285,Phoenix",Phoenix,California,33611,West
+"36411,Houston",Houston,Georgia,15534,Central
+"27109,New York",New York,Florida,80341,South
+"99862,San Diego",San Diego,Florida,64017,Central
+"47263,Phoenix",Phoenix,Pennsylvania,95163,West
+"10017,New York",New York,Illinois,65712,West
+"45813,San Diego",San Diego,New York,91552,West
+"44346,Chicago",Chicago,Michigan,19457,West
+"16180,Philadelphia",Philadelphia,North Carolina,60486,East
+"36752,San Diego",San Diego,North Carolina,44564,West
+"36893,Houston",Houston,Florida,89301,Central
+"23662,San Antonio",San Antonio,Texas,19416,South
+"46771,San Diego",San Diego,Georgia,75273,Central
+"75480,Los Angeles",Los Angeles,Pennsylvania,24498,East
+"77358,Los Angeles",Los Angeles,Ohio,16117,South
+"97410,San Diego",San Diego,California,26484,West
+"74293,Phoenix",Phoenix,North Carolina,74001,Central
+"46109,Dallas",Dallas,New York,65745,South
+"38050,New York",New York,Illinois,48691,West
+"46435,Philadelphia",Philadelphia,Ohio,20323,East
+"34285,San Antonio",San Antonio,Illinois,72931,East
+"78992,Houston",Houston,Ohio,67816,West
+"60435,San Antonio",San Antonio,California,52650,East
+"44074,Chicago",Chicago,Ohio,41378,South
+"42912,Phoenix",Phoenix,Texas,41989,Central
+"93415,New York",New York,Michigan,54786,Central
+"90166,Dallas",Dallas,Texas,67387,East
+"75393,Houston",Houston,Georgia,56046,West
+"47814,Phoenix",Phoenix,Illinois,92567,South
+"20372,Philadelphia",Philadelphia,Georgia,40708,Central
+"41855,Dallas",Dallas,Florida,26039,East
+"27220,Chicago",Chicago,Florida,91490,Central
+"69041,San Antonio",San Antonio,Florida,10014,Central
+"31739,Phoenix",Phoenix,North Carolina,43753,East
+"47633,Los Angeles",Los Angeles,New York,21268,East
+"87098,Dallas",Dallas,California,18246,South
+"22501,Houston",Houston,Texas,65137,West
+"30769,San Jose",San Jose,Michigan,65184,South
+"92085,Dallas",Dallas,Michigan,89641,Central
+"26191,Phoenix",Phoenix,North Carolina,49071,Central
+"91832,Los Angeles",Los Angeles,Florida,55576,Central
+"53308,Houston",Houston,Michigan,40596,West
+"78096,Houston",Houston,Georgia,82114,West
+"51398,Philadelphia",Philadelphia,Ohio,77310,West
+"83118,Chicago",Chicago,North Carolina,94330,Central
+"49580,San Jose",San Jose,Florida,76343,South
+"94690,Los Angeles",Los Angeles,Florida,43923,East
+"40198,San Antonio",San Antonio,California,44389,Central
+"90459,San Diego",San Diego,North Carolina,22293,East
+"45613,Dallas",Dallas,Texas,77922,Central
+"78521,New York",New York,Florida,96903,East
+"91443,New York",New York,Michigan,77634,West
+"14944,San Antonio",San Antonio,Ohio,11568,South
+"51661,Dallas",Dallas,Florida,32193,Central
+"56056,Los Angeles",Los Angeles,Florida,17810,East
+"69441,Dallas",Dallas,Michigan,54133,East
+"64224,Los Angeles",Los Angeles,Illinois,23410,West
+"60706,San Antonio",San Antonio,New York,19373,East
+"69119,Chicago",Chicago,Florida,23769,East
+"18534,San Jose",San Jose,North Carolina,80504,Central
+"10837,San Jose",San Jose,California,70742,Central
+"75105,San Jose",San Jose,Florida,54258,East
+"32333,Philadelphia",Philadelphia,Pennsylvania,73241,East
+"50899,San Antonio",San Antonio,North Carolina,94384,Central
+"24731,Dallas",Dallas,Pennsylvania,65901,East
+"29483,San Jose",San Jose,California,82650,West
+"17181,Philadelphia",Philadelphia,Georgia,81167,Central
+"27052,San Diego",San Diego,Georgia,87141,East
+"20005,Houston",Houston,California,96493,South
+"43927,Philadelphia",Philadelphia,Georgia,62459,West
+"33179,New York",New York,North Carolina,24877,South
+"26243,Philadelphia",Philadelphia,Florida,14710,East
+"72932,San Antonio",San Antonio,Ohio,57602,East
+"29859,Houston",Houston,Georgia,83965,West
+"22424,Houston",Houston,New York,27448,Central
+"72147,Houston",Houston,Texas,34719,West
+"49828,New York",New York,Georgia,84968,East
+"66121,Dallas",Dallas,Georgia,70871,West
+"37686,Houston",Houston,New York,63414,East
+"65299,San Antonio",San Antonio,Illinois,88146,West

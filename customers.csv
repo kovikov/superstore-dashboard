@@ -1,0 +1,996 @@
+Customer ID,Customer Name,Segment
+CU-49431,Amy Garcia,Corporate
+CU-17005,Chris Rodriguez,Corporate
+CU-50200,Lisa Rodriguez,Corporate
+CU-87877,Robert Davis,Corporate
+CU-97221,Sarah Smith,Corporate
+CU-58277,Chris Garcia,Consumer
+CU-60332,John Johnson,Corporate
+CU-65233,Lisa Smith,Consumer
+CU-41396,John Rodriguez,Consumer
+CU-11393,Lisa Jones,Corporate
+CU-50507,David Miller,Home Office
+CU-42708,David Brown,Consumer
+CU-25100,Robert Smith,Consumer
+CU-69679,Jane Davis,Consumer
+CU-79824,David Johnson,Corporate
+CU-58551,Emily Miller,Consumer
+CU-96900,Amy Johnson,Corporate
+CU-25912,Mike Smith,Home Office
+CU-55533,Lisa Smith,Home Office
+CU-80773,Mike Johnson,Home Office
+CU-38750,David Davis,Home Office
+CU-12933,Robert Miller,Consumer
+CU-87977,Sarah Miller,Consumer
+CU-93204,Emily Martinez,Corporate
+CU-35492,Emily Johnson,Home Office
+CU-60553,Sarah Williams,Corporate
+CU-55476,Lisa Garcia,Consumer
+CU-77783,Amy Davis,Home Office
+CU-55463,Mike Jones,Consumer
+CU-96511,Chris Martinez,Home Office
+CU-32047,Amy Johnson,Consumer
+CU-36438,Chris Rodriguez,Corporate
+CU-81802,Amy Brown,Corporate
+CU-32848,Robert Martinez,Home Office
+CU-80891,Emily Rodriguez,Corporate
+CU-13464,David Williams,Corporate
+CU-59349,Robert Martinez,Consumer
+CU-86760,Sarah Johnson,Consumer
+CU-66722,Mike Rodriguez,Corporate
+CU-17710,Lisa Davis,Consumer
+CU-91470,Sarah Brown,Consumer
+CU-99864,David Miller,Home Office
+CU-40228,Amy Johnson,Corporate
+CU-23311,Sarah Davis,Corporate
+CU-79756,Lisa Garcia,Home Office
+CU-91426,Emily Miller,Home Office
+CU-57144,Emily Garcia,Consumer
+CU-81093,David Davis,Consumer
+CU-77470,Mike Jones,Consumer
+CU-11207,John Garcia,Home Office
+CU-38290,Robert Rodriguez,Home Office
+CU-36527,Chris Davis,Consumer
+CU-85429,Mike Miller,Home Office
+CU-71363,Emily Rodriguez,Home Office
+CU-48415,Emily Rodriguez,Home Office
+CU-24798,Chris Williams,Consumer
+CU-77170,Lisa Johnson,Consumer
+CU-45693,John Brown,Corporate
+CU-49985,Jane Jones,Home Office
+CU-92631,Sarah Jones,Consumer
+CU-14648,Robert Garcia,Consumer
+CU-55432,Amy Martinez,Home Office
+CU-73234,Robert Jones,Corporate
+CU-99221,Chris Smith,Corporate
+CU-42890,Sarah Miller,Home Office
+CU-62938,John Davis,Consumer
+CU-51763,Chris Martinez,Consumer
+CU-62206,Amy Rodriguez,Corporate
+CU-51261,Robert Rodriguez,Home Office
+CU-43678,David Martinez,Consumer
+CU-24819,Mike Johnson,Corporate
+CU-97909,Amy Jones,Consumer
+CU-37086,Jane Smith,Home Office
+CU-60197,Amy Johnson,Consumer
+CU-32546,Chris Garcia,Home Office
+CU-60827,Robert Davis,Consumer
+CU-76790,Jane Miller,Consumer
+CU-99815,Amy Miller,Consumer
+CU-73363,Sarah Williams,Corporate
+CU-26735,Lisa Williams,Corporate
+CU-89727,David Jones,Consumer
+CU-44703,Sarah Smith,Home Office
+CU-22509,Emily Johnson,Corporate
+CU-10841,Lisa Davis,Home Office
+CU-16580,Amy Jones,Corporate
+CU-49903,Emily Johnson,Corporate
+CU-51967,Amy Garcia,Consumer
+CU-53899,Chris Martinez,Corporate
+CU-33446,David Davis,Home Office
+CU-34863,Chris Rodriguez,Home Office
+CU-77223,Sarah Williams,Home Office
+CU-13681,Mike Rodriguez,Consumer
+CU-44004,Robert Garcia,Consumer
+CU-65714,Jane Smith,Corporate
+CU-62131,Jane Rodriguez,Consumer
+CU-28683,Chris Smith,Home Office
+CU-10828,Robert Smith,Home Office
+CU-29914,Mike Garcia,Home Office
+CU-73087,Mike Martinez,Home Office
+CU-59391,Sarah Smith,Consumer
+CU-99254,Chris Johnson,Corporate
+CU-25845,David Rodriguez,Consumer
+CU-73682,David Rodriguez,Home Office
+CU-11645,John Rodriguez,Home Office
+CU-96069,Mike Brown,Home Office
+CU-14192,Lisa Garcia,Consumer
+CU-55205,David Davis,Corporate
+CU-75670,Lisa Williams,Corporate
+CU-68907,Robert Brown,Home Office
+CU-98582,Jane Davis,Consumer
+CU-52798,David Rodriguez,Corporate
+CU-68370,Robert Davis,Consumer
+CU-54362,Robert Williams,Home Office
+CU-39878,Mike Brown,Consumer
+CU-77527,Jane Miller,Consumer
+CU-72527,Sarah Martinez,Consumer
+CU-71354,John Jones,Consumer
+CU-91784,Lisa Smith,Corporate
+CU-93250,David Garcia,Corporate
+CU-79028,Sarah Martinez,Corporate
+CU-53529,Jane Jones,Corporate
+CU-84773,Jane Williams,Home Office
+CU-23618,Amy Williams,Consumer
+CU-78442,Robert Williams,Consumer
+CU-74987,Robert Martinez,Home Office
+CU-47608,Amy Jones,Consumer
+CU-76368,Robert Williams,Consumer
+CU-57277,Chris Brown,Consumer
+CU-39968,Jane Martinez,Corporate
+CU-20381,Chris Martinez,Home Office
+CU-47752,Robert Miller,Corporate
+CU-74908,Amy Davis,Home Office
+CU-79032,Sarah Rodriguez,Home Office
+CU-82527,Mike Rodriguez,Corporate
+CU-96924,Chris Martinez,Consumer
+CU-75921,Chris Brown,Home Office
+CU-64437,David Garcia,Home Office
+CU-32880,Amy Johnson,Consumer
+CU-36833,Amy Johnson,Corporate
+CU-64981,Lisa Miller,Corporate
+CU-45854,Chris Davis,Home Office
+CU-21453,Jane Miller,Consumer
+CU-76006,John Garcia,Consumer
+CU-78832,Lisa Smith,Home Office
+CU-26611,Chris Johnson,Consumer
+CU-76531,Lisa Miller,Consumer
+CU-65484,Robert Jones,Consumer
+CU-28075,Amy Martinez,Consumer
+CU-36259,Jane Smith,Home Office
+CU-48818,Emily Martinez,Corporate
+CU-36241,Sarah Miller,Consumer
+CU-73712,John Rodriguez,Home Office
+CU-14405,Chris Martinez,Consumer
+CU-70322,Lisa Martinez,Home Office
+CU-33701,David Davis,Home Office
+CU-54493,Lisa Davis,Corporate
+CU-21113,Chris Rodriguez,Home Office
+CU-77185,Amy Johnson,Consumer
+CU-48681,David Jones,Corporate
+CU-44158,Chris Miller,Corporate
+CU-80885,Lisa Jones,Consumer
+CU-67350,Robert Johnson,Home Office
+CU-55559,Mike Smith,Home Office
+CU-66634,Robert Johnson,Corporate
+CU-52944,John Brown,Consumer
+CU-77793,Sarah Brown,Corporate
+CU-85070,Emily Rodriguez,Corporate
+CU-87961,Mike Brown,Corporate
+CU-68653,Jane Smith,Home Office
+CU-50018,Sarah Johnson,Consumer
+CU-26962,Jane Johnson,Home Office
+CU-91886,Chris Johnson,Home Office
+CU-72027,Sarah Jones,Home Office
+CU-52073,Jane Davis,Consumer
+CU-11161,David Jones,Corporate
+CU-81443,David Martinez,Consumer
+CU-80845,Jane Johnson,Corporate
+CU-26189,Mike Rodriguez,Corporate
+CU-59749,Chris Smith,Consumer
+CU-59219,Lisa Rodriguez,Consumer
+CU-79185,David Garcia,Consumer
+CU-34154,Jane Williams,Home Office
+CU-87441,David Smith,Home Office
+CU-32183,David Williams,Home Office
+CU-80793,Robert Brown,Consumer
+CU-99438,Robert Garcia,Home Office
+CU-38684,Lisa Smith,Consumer
+CU-92416,Jane Jones,Corporate
+CU-68415,Robert Jones,Home Office
+CU-18150,Jane Williams,Consumer
+CU-54453,Chris Davis,Consumer
+CU-19544,Sarah Jones,Corporate
+CU-57573,Lisa Martinez,Corporate
+CU-55234,Amy Smith,Corporate
+CU-14031,Emily Williams,Corporate
+CU-60604,Lisa Rodriguez,Consumer
+CU-79225,Mike Williams,Consumer
+CU-46084,Sarah Rodriguez,Corporate
+CU-76109,Chris Brown,Consumer
+CU-35670,David Williams,Consumer
+CU-82422,Amy Jones,Corporate
+CU-18743,Amy Martinez,Corporate
+CU-41970,Sarah Brown,Consumer
+CU-62219,Chris Garcia,Corporate
+CU-55540,Lisa Garcia,Corporate
+CU-66135,Sarah Williams,Consumer
+CU-84202,Amy Jones,Consumer
+CU-30296,Lisa Johnson,Consumer
+CU-56771,Chris Martinez,Corporate
+CU-83264,Emily Davis,Home Office
+CU-97191,Sarah Davis,Home Office
+CU-64481,Mike Brown,Consumer
+CU-96135,Emily Miller,Consumer
+CU-96899,Robert Rodriguez,Home Office
+CU-48778,Mike Smith,Home Office
+CU-22385,Lisa Brown,Consumer
+CU-49441,John Garcia,Consumer
+CU-78458,Mike Miller,Home Office
+CU-35417,David Johnson,Home Office
+CU-82381,David Miller,Home Office
+CU-59804,Lisa Martinez,Consumer
+CU-55135,Lisa Garcia,Consumer
+CU-26429,Robert Johnson,Home Office
+CU-82602,David Davis,Home Office
+CU-68145,Chris Miller,Home Office
+CU-23918,Robert Garcia,Consumer
+CU-50629,Mike Johnson,Corporate
+CU-19981,John Miller,Home Office
+CU-30518,Jane Smith,Home Office
+CU-14172,Mike Davis,Consumer
+CU-72270,Emily Davis,Consumer
+CU-25123,John Davis,Consumer
+CU-76197,John Davis,Corporate
+CU-24097,David Garcia,Home Office
+CU-24263,David Martinez,Corporate
+CU-58665,Amy Garcia,Consumer
+CU-31447,Jane Smith,Consumer
+CU-93525,Chris Johnson,Consumer
+CU-36079,Chris Johnson,Consumer
+CU-89921,Amy Davis,Home Office
+CU-54465,Chris Jones,Consumer
+CU-76308,Mike Williams,Consumer
+CU-40735,David Williams,Corporate
+CU-74833,Lisa Davis,Consumer
+CU-24681,David Davis,Home Office
+CU-32780,Jane Williams,Corporate
+CU-32583,David Jones,Corporate
+CU-11771,Mike Davis,Home Office
+CU-62875,Robert Rodriguez,Consumer
+CU-57238,David Williams,Home Office
+CU-98697,Robert Smith,Corporate
+CU-59326,David Smith,Consumer
+CU-86432,David Rodriguez,Corporate
+CU-64716,Mike Johnson,Consumer
+CU-87536,Robert Davis,Home Office
+CU-20673,Emily Garcia,Home Office
+CU-40239,Sarah Garcia,Home Office
+CU-59882,John Miller,Home Office
+CU-88650,Emily Williams,Home Office
+CU-65400,Jane Johnson,Home Office
+CU-93222,Amy Johnson,Consumer
+CU-31677,Mike Rodriguez,Consumer
+CU-31336,John Jones,Consumer
+CU-45956,Lisa Garcia,Home Office
+CU-99932,Lisa Garcia,Corporate
+CU-43074,Robert Jones,Corporate
+CU-70957,Jane Jones,Corporate
+CU-75595,Lisa Garcia,Corporate
+CU-29661,Emily Brown,Home Office
+CU-42321,Mike Williams,Consumer
+CU-66543,Chris Martinez,Home Office
+CU-14226,Lisa Rodriguez,Consumer
+CU-95221,Jane Rodriguez,Home Office
+CU-57962,Sarah Smith,Home Office
+CU-17096,Lisa Smith,Consumer
+CU-24606,Jane Smith,Consumer
+CU-19867,Sarah Smith,Corporate
+CU-85426,Mike Smith,Consumer
+CU-63517,Sarah Jones,Home Office
+CU-61629,Mike Williams,Corporate
+CU-36151,Sarah Williams,Home Office
+CU-48130,Jane Martinez,Corporate
+CU-88546,Jane Miller,Consumer
+CU-22045,Robert Garcia,Corporate
+CU-99219,John Garcia,Corporate
+CU-37221,Sarah Davis,Home Office
+CU-38985,Lisa Martinez,Home Office
+CU-78008,John Rodriguez,Consumer
+CU-47236,Chris Davis,Consumer
+CU-52949,Mike Smith,Consumer
+CU-46057,Jane Miller,Home Office
+CU-59397,Jane Miller,Consumer
+CU-58107,Emily Brown,Home Office
+CU-91970,John Rodriguez,Home Office
+CU-95194,Robert Davis,Corporate
+CU-43364,Robert Smith,Home Office
+CU-15702,Emily Williams,Consumer
+CU-10619,Mike Jones,Home Office
+CU-73572,Robert Smith,Home Office
+CU-57178,Mike Martinez,Consumer
+CU-86577,Jane Martinez,Corporate
+CU-68704,Lisa Jones,Corporate
+CU-51332,David Johnson,Home Office
+CU-91115,John Brown,Home Office
+CU-14849,Amy Martinez,Corporate
+CU-93058,David Martinez,Consumer
+CU-80605,Emily Johnson,Home Office
+CU-35676,Jane Miller,Home Office
+CU-51597,Lisa Rodriguez,Corporate
+CU-92014,Jane Martinez,Corporate
+CU-21578,Jane Johnson,Home Office
+CU-11468,David Garcia,Home Office
+CU-65549,Emily Johnson,Corporate
+CU-63976,David Brown,Corporate
+CU-94082,David Brown,Consumer
+CU-99618,Amy Martinez,Home Office
+CU-36407,Robert Brown,Corporate
+CU-75119,David Rodriguez,Home Office
+CU-10367,David Martinez,Corporate
+CU-79287,Emily Johnson,Consumer
+CU-66647,David Jones,Corporate
+CU-37193,Mike Garcia,Home Office
+CU-84674,Lisa Martinez,Home Office
+CU-87813,Chris Smith,Corporate
+CU-73344,Lisa Williams,Corporate
+CU-99211,Chris Williams,Corporate
+CU-63147,John Jones,Consumer
+CU-77860,John Rodriguez,Corporate
+CU-54261,Emily Davis,Consumer
+CU-98996,Amy Davis,Consumer
+CU-33075,Mike Smith,Corporate
+CU-68224,Sarah Rodriguez,Corporate
+CU-72914,John Davis,Corporate
+CU-30569,David Johnson,Consumer
+CU-33363,John Brown,Consumer
+CU-37651,Lisa Miller,Home Office
+CU-67426,John Brown,Consumer
+CU-53798,Lisa Miller,Home Office
+CU-11373,Robert Garcia,Corporate
+CU-27266,Emily Garcia,Home Office
+CU-43934,Emily Smith,Corporate
+CU-19231,Amy Smith,Home Office
+CU-84589,Lisa Brown,Consumer
+CU-73334,Amy Garcia,Corporate
+CU-81952,Emily Jones,Corporate
+CU-96010,David Miller,Consumer
+CU-32254,Emily Davis,Corporate
+CU-16225,Amy Garcia,Corporate
+CU-92132,Lisa Garcia,Corporate
+CU-83248,Mike Smith,Home Office
+CU-69536,David Garcia,Corporate
+CU-95849,David Davis,Home Office
+CU-79943,David Williams,Home Office
+CU-65841,Lisa Johnson,Consumer
+CU-46682,David Garcia,Corporate
+CU-79812,Emily Miller,Home Office
+CU-86862,Chris Martinez,Corporate
+CU-42095,Amy Davis,Home Office
+CU-35441,Amy Jones,Home Office
+CU-54358,Sarah Williams,Home Office
+CU-30262,Sarah Williams,Corporate
+CU-45906,Chris Davis,Consumer
+CU-50786,Robert Jones,Consumer
+CU-28192,Amy Miller,Corporate
+CU-71847,Chris Davis,Corporate
+CU-63193,Mike Davis,Consumer
+CU-18475,Robert Davis,Home Office
+CU-60739,Robert Miller,Corporate
+CU-70985,Jane Brown,Home Office
+CU-72893,Amy Rodriguez,Corporate
+CU-52387,Chris Garcia,Home Office
+CU-17582,Lisa Williams,Home Office
+CU-28761,Emily Smith,Corporate
+CU-16599,John Davis,Consumer
+CU-75939,Jane Martinez,Consumer
+CU-32815,Lisa Johnson,Home Office
+CU-39449,Lisa Garcia,Corporate
+CU-56112,Mike Jones,Home Office
+CU-79508,John Garcia,Corporate
+CU-12664,Sarah Miller,Consumer
+CU-62074,Jane Smith,Corporate
+CU-61516,Sarah Rodriguez,Home Office
+CU-66862,John Smith,Home Office
+CU-91461,David Davis,Home Office
+CU-17632,Sarah Johnson,Corporate
+CU-98225,Emily Rodriguez,Home Office
+CU-86935,Jane Garcia,Home Office
+CU-38577,Jane Davis,Consumer
+CU-77807,John Jones,Consumer
+CU-22329,Jane Brown,Home Office
+CU-22945,Robert Garcia,Consumer
+CU-14322,David Jones,Home Office
+CU-91843,Chris Johnson,Corporate
+CU-93337,Chris Jones,Home Office
+CU-81388,Robert Johnson,Corporate
+CU-86641,Sarah Williams,Home Office
+CU-95505,Emily Smith,Corporate
+CU-17419,Emily Rodriguez,Corporate
+CU-58997,Amy Rodriguez,Corporate
+CU-91756,Emily Johnson,Corporate
+CU-34179,Chris Smith,Corporate
+CU-90888,Chris Williams,Home Office
+CU-83144,Sarah Williams,Corporate
+CU-49555,John Garcia,Corporate
+CU-81789,Lisa Miller,Home Office
+CU-65191,John Brown,Consumer
+CU-36423,David Garcia,Corporate
+CU-99744,Chris Rodriguez,Home Office
+CU-93161,Lisa Jones,Corporate
+CU-70388,Emily Johnson,Home Office
+CU-26111,Amy Martinez,Consumer
+CU-42784,Mike Martinez,Consumer
+CU-60644,Emily Garcia,Consumer
+CU-91743,Lisa Jones,Consumer
+CU-18278,Amy Smith,Corporate
+CU-78239,Chris Johnson,Home Office
+CU-57534,Lisa Brown,Home Office
+CU-10158,Amy Brown,Home Office
+CU-66304,Lisa Johnson,Consumer
+CU-75640,Jane Davis,Home Office
+CU-35999,Lisa Jones,Home Office
+CU-63924,Mike Davis,Home Office
+CU-86011,Robert Brown,Home Office
+CU-56502,Jane Jones,Home Office
+CU-78508,Jane Rodriguez,Corporate
+CU-14302,Lisa Johnson,Consumer
+CU-71070,Amy Garcia,Consumer
+CU-96927,David Williams,Consumer
+CU-78304,John Brown,Consumer
+CU-75104,Sarah Johnson,Corporate
+CU-19738,Mike Smith,Home Office
+CU-81089,Mike Smith,Corporate
+CU-94145,Sarah Garcia,Home Office
+CU-26262,Lisa Miller,Consumer
+CU-23180,Sarah Jones,Home Office
+CU-14035,Jane Smith,Corporate
+CU-70190,Amy Brown,Consumer
+CU-96792,Sarah Garcia,Corporate
+CU-71740,Lisa Davis,Corporate
+CU-19941,Jane Martinez,Home Office
+CU-82922,Chris Brown,Consumer
+CU-82741,Amy Garcia,Consumer
+CU-39861,Jane Smith,Corporate
+CU-64488,Jane Jones,Home Office
+CU-46849,Jane Davis,Consumer
+CU-66888,Sarah Johnson,Consumer
+CU-16477,Emily Johnson,Corporate
+CU-27956,David Miller,Consumer
+CU-44671,Jane Garcia,Home Office
+CU-42052,Lisa Jones,Consumer
+CU-24686,Robert Rodriguez,Consumer
+CU-96543,Amy Williams,Home Office
+CU-55351,Amy Martinez,Corporate
+CU-14002,Jane Martinez,Home Office
+CU-25812,Lisa Miller,Corporate
+CU-44782,Jane Miller,Corporate
+CU-59032,Emily Johnson,Consumer
+CU-45522,John Brown,Corporate
+CU-57061,Mike Williams,Corporate
+CU-15126,Chris Miller,Consumer
+CU-38191,Emily Jones,Consumer
+CU-23305,Amy Davis,Consumer
+CU-77412,Sarah Johnson,Consumer
+CU-37235,John Smith,Consumer
+CU-66574,Emily Garcia,Corporate
+CU-25528,Chris Martinez,Home Office
+CU-95920,David Davis,Home Office
+CU-86605,Sarah Martinez,Consumer
+CU-23448,Mike Smith,Consumer
+CU-40356,David Garcia,Corporate
+CU-56970,John Johnson,Corporate
+CU-50216,Robert Garcia,Corporate
+CU-22444,Emily Williams,Home Office
+CU-15401,John Smith,Consumer
+CU-41774,Jane Brown,Corporate
+CU-31721,Emily Jones,Corporate
+CU-27940,Lisa Johnson,Corporate
+CU-55989,Mike Smith,Home Office
+CU-66470,Emily Miller,Home Office
+CU-93714,Amy Williams,Consumer
+CU-31270,Amy Miller,Corporate
+CU-41748,Mike Brown,Consumer
+CU-61638,Mike Williams,Corporate
+CU-86056,Sarah Miller,Consumer
+CU-25626,Amy Martinez,Consumer
+CU-62699,Lisa Williams,Corporate
+CU-53485,Chris Smith,Consumer
+CU-15157,Jane Garcia,Consumer
+CU-36309,John Williams,Consumer
+CU-47740,David Davis,Corporate
+CU-31158,Robert Smith,Home Office
+CU-45105,David Rodriguez,Home Office
+CU-63642,Emily Davis,Corporate
+CU-32429,Amy Johnson,Consumer
+CU-11158,Emily Miller,Consumer
+CU-93976,Robert Davis,Home Office
+CU-93045,John Williams,Home Office
+CU-85519,David Williams,Corporate
+CU-80502,Sarah Davis,Consumer
+CU-37976,Lisa Brown,Home Office
+CU-36660,David Johnson,Corporate
+CU-49685,Jane Miller,Consumer
+CU-31612,Emily Brown,Home Office
+CU-53497,Robert Davis,Home Office
+CU-28010,Robert Rodriguez,Corporate
+CU-30778,John Rodriguez,Corporate
+CU-22443,Sarah Johnson,Home Office
+CU-87482,Chris Miller,Corporate
+CU-51848,Lisa Jones,Home Office
+CU-20105,Emily Davis,Home Office
+CU-14237,Chris Davis,Consumer
+CU-53121,Mike Rodriguez,Consumer
+CU-10252,John Williams,Consumer
+CU-91883,Mike Smith,Home Office
+CU-49856,John Miller,Home Office
+CU-70864,Lisa Johnson,Corporate
+CU-53554,Sarah Miller,Corporate
+CU-49462,Amy Williams,Consumer
+CU-42976,Chris Jones,Corporate
+CU-86678,Jane Smith,Corporate
+CU-96273,David Williams,Corporate
+CU-53150,Mike Williams,Corporate
+CU-23329,Sarah Miller,Consumer
+CU-40123,Mike Garcia,Home Office
+CU-29042,Lisa Jones,Home Office
+CU-75810,Amy Jones,Corporate
+CU-48391,David Martinez,Corporate
+CU-11180,Chris Brown,Corporate
+CU-83389,Robert Martinez,Home Office
+CU-70161,Robert Smith,Corporate
+CU-15087,Mike Davis,Corporate
+CU-23330,John Miller,Consumer
+CU-28300,Jane Miller,Consumer
+CU-37135,Emily Rodriguez,Consumer
+CU-39777,Robert Smith,Corporate
+CU-91823,Robert Garcia,Home Office
+CU-13686,Emily Jones,Corporate
+CU-68635,Emily Garcia,Home Office
+CU-35590,David Williams,Corporate
+CU-56019,Amy Garcia,Corporate
+CU-43299,Emily Williams,Consumer
+CU-26799,Mike Garcia,Home Office
+CU-13405,David Johnson,Corporate
+CU-68274,Sarah Garcia,Corporate
+CU-81262,David Martinez,Home Office
+CU-21800,Robert Williams,Home Office
+CU-60070,Chris Martinez,Home Office
+CU-78740,Mike Davis,Consumer
+CU-80081,Mike Smith,Home Office
+CU-57924,Amy Jones,Corporate
+CU-10153,John Davis,Corporate
+CU-23011,Chris Miller,Corporate
+CU-94752,Jane Davis,Home Office
+CU-14247,John Rodriguez,Corporate
+CU-43368,Chris Brown,Home Office
+CU-14925,Mike Jones,Consumer
+CU-49703,Amy Martinez,Corporate
+CU-96459,Robert Miller,Corporate
+CU-45643,Mike Davis,Home Office
+CU-61468,Emily Jones,Home Office
+CU-31003,Sarah Garcia,Corporate
+CU-88494,Mike Martinez,Consumer
+CU-50812,Lisa Martinez,Consumer
+CU-31451,Lisa Smith,Corporate
+CU-95068,Jane Smith,Consumer
+CU-80409,Emily Johnson,Consumer
+CU-51527,Lisa Miller,Home Office
+CU-83583,Chris Miller,Consumer
+CU-94524,David Miller,Consumer
+CU-52672,Jane Martinez,Home Office
+CU-16318,Mike Garcia,Corporate
+CU-57124,David Davis,Home Office
+CU-90105,Emily Williams,Consumer
+CU-71939,Lisa Garcia,Consumer
+CU-40561,Amy Davis,Consumer
+CU-54899,Robert Rodriguez,Consumer
+CU-40622,David Rodriguez,Consumer
+CU-16422,Robert Smith,Home Office
+CU-10711,Robert Smith,Consumer
+CU-63691,Lisa Brown,Home Office
+CU-28858,David Johnson,Corporate
+CU-18823,Mike Garcia,Consumer
+CU-55396,Mike Davis,Consumer
+CU-12412,Chris Davis,Corporate
+CU-73464,Lisa Williams,Home Office
+CU-60310,Emily Johnson,Consumer
+CU-90917,Robert Rodriguez,Home Office
+CU-69611,Chris Johnson,Consumer
+CU-71213,Robert Williams,Corporate
+CU-60351,Chris Smith,Corporate
+CU-27508,Sarah Brown,Corporate
+CU-11199,Robert Smith,Consumer
+CU-80578,Sarah Garcia,Corporate
+CU-31047,Mike Martinez,Corporate
+CU-92633,Amy Garcia,Consumer
+CU-52968,Sarah Brown,Consumer
+CU-70287,Emily Davis,Home Office
+CU-66571,David Miller,Consumer
+CU-30376,Jane Miller,Consumer
+CU-53414,John Jones,Consumer
+CU-46290,Sarah Garcia,Corporate
+CU-49965,Emily Miller,Consumer
+CU-26554,Sarah Johnson,Home Office
+CU-58833,Chris Davis,Corporate
+CU-45918,David Jones,Home Office
+CU-15389,John Martinez,Consumer
+CU-26380,Amy Davis,Corporate
+CU-54199,Lisa Martinez,Corporate
+CU-97021,Jane Garcia,Corporate
+CU-80669,Robert Rodriguez,Consumer
+CU-16716,Sarah Martinez,Home Office
+CU-54720,Chris Brown,Consumer
+CU-37363,Mike Jones,Consumer
+CU-15864,Emily Martinez,Home Office
+CU-30404,Chris Davis,Consumer
+CU-93101,Robert Miller,Corporate
+CU-21580,Lisa Rodriguez,Consumer
+CU-22055,Mike Jones,Consumer
+CU-20125,Lisa Martinez,Consumer
+CU-96212,Lisa Jones,Consumer
+CU-41169,Robert Johnson,Corporate
+CU-18640,Jane Rodriguez,Home Office
+CU-59309,Mike Johnson,Consumer
+CU-48999,David Rodriguez,Home Office
+CU-94320,Chris Brown,Corporate
+CU-67770,Chris Johnson,Consumer
+CU-87372,Lisa Miller,Consumer
+CU-45376,Chris Garcia,Home Office
+CU-90723,Sarah Jones,Corporate
+CU-81692,Mike Smith,Consumer
+CU-69187,Amy Martinez,Corporate
+CU-59108,Lisa Rodriguez,Home Office
+CU-34932,Amy Smith,Home Office
+CU-55085,Emily Rodriguez,Home Office
+CU-26548,Sarah Smith,Home Office
+CU-52221,Mike Jones,Corporate
+CU-27497,Emily Davis,Consumer
+CU-95093,Robert Brown,Consumer
+CU-29779,Amy Smith,Consumer
+CU-41282,Mike Martinez,Home Office
+CU-43832,David Garcia,Home Office
+CU-44645,Jane Smith,Home Office
+CU-13931,Emily Smith,Consumer
+CU-88761,Robert Jones,Consumer
+CU-88500,Amy Smith,Corporate
+CU-89560,Mike Brown,Corporate
+CU-32409,Jane Johnson,Home Office
+CU-81047,David Jones,Consumer
+CU-37975,Amy Johnson,Consumer
+CU-50536,Sarah Williams,Corporate
+CU-80304,Jane Jones,Consumer
+CU-15290,Chris Jones,Home Office
+CU-63925,Sarah Brown,Corporate
+CU-45339,Robert Williams,Corporate
+CU-40959,Robert Rodriguez,Consumer
+CU-54732,Amy Williams,Home Office
+CU-18188,Sarah Brown,Consumer
+CU-48928,John Jones,Corporate
+CU-12467,Chris Johnson,Corporate
+CU-34724,Mike Davis,Consumer
+CU-36477,Amy Miller,Consumer
+CU-72398,John Rodriguez,Consumer
+CU-45285,Sarah Martinez,Corporate
+CU-32533,Chris Johnson,Consumer
+CU-91157,Mike Martinez,Home Office
+CU-95809,Emily Brown,Home Office
+CU-62799,Amy Johnson,Home Office
+CU-67122,David Brown,Consumer
+CU-19797,Lisa Davis,Home Office
+CU-46891,John Johnson,Home Office
+CU-86130,Jane Jones,Corporate
+CU-19076,Jane Williams,Corporate
+CU-28330,Sarah Williams,Consumer
+CU-30412,Jane Jones,Consumer
+CU-10274,Amy Williams,Home Office
+CU-40539,Amy Miller,Consumer
+CU-66603,Lisa Smith,Consumer
+CU-92879,David Davis,Home Office
+CU-87043,Chris Johnson,Corporate
+CU-86872,John Davis,Corporate
+CU-21423,Mike Miller,Consumer
+CU-62970,Sarah Martinez,Consumer
+CU-37907,Sarah Brown,Home Office
+CU-51646,John Jones,Consumer
+CU-92507,Chris Brown,Home Office
+CU-61297,Sarah Miller,Consumer
+CU-71411,Sarah Johnson,Consumer
+CU-25840,Sarah Rodriguez,Consumer
+CU-13373,Emily Brown,Corporate
+CU-59556,Jane Miller,Consumer
+CU-60037,David Martinez,Corporate
+CU-73417,John Garcia,Corporate
+CU-24475,Jane Smith,Home Office
+CU-32884,Sarah Rodriguez,Corporate
+CU-64016,Lisa Jones,Corporate
+CU-62015,Robert Williams,Home Office
+CU-54753,John Miller,Consumer
+CU-97454,Amy Smith,Consumer
+CU-76729,David Miller,Corporate
+CU-41428,Emily Garcia,Home Office
+CU-28937,Sarah Martinez,Consumer
+CU-79836,David Davis,Consumer
+CU-68866,Jane Davis,Consumer
+CU-77550,Lisa Williams,Home Office
+CU-59898,Sarah Rodriguez,Corporate
+CU-44565,Emily Brown,Consumer
+CU-22084,John Johnson,Home Office
+CU-71656,Jane Martinez,Corporate
+CU-73579,David Jones,Consumer
+CU-71508,John Davis,Home Office
+CU-13166,David Garcia,Consumer
+CU-10179,Chris Brown,Consumer
+CU-40352,Lisa Garcia,Home Office
+CU-27961,Robert Johnson,Corporate
+CU-55329,Jane Brown,Home Office
+CU-81097,Amy Jones,Corporate
+CU-98230,Jane Miller,Consumer
+CU-20238,Jane Garcia,Home Office
+CU-27262,Chris Garcia,Corporate
+CU-99574,Robert Davis,Consumer
+CU-63913,Lisa Davis,Home Office
+CU-28605,Robert Martinez,Corporate
+CU-78726,Lisa Miller,Consumer
+CU-56459,Amy Rodriguez,Consumer
+CU-53410,David Jones,Home Office
+CU-65462,Sarah Smith,Corporate
+CU-95691,Sarah Smith,Home Office
+CU-75281,Robert Johnson,Home Office
+CU-73620,Lisa Martinez,Consumer
+CU-11055,Chris Garcia,Consumer
+CU-20581,Lisa Miller,Home Office
+CU-11651,David Davis,Consumer
+CU-13457,Robert Brown,Home Office
+CU-59690,Chris Martinez,Corporate
+CU-59495,Emily Johnson,Corporate
+CU-70660,Chris Rodriguez,Home Office
+CU-76130,Amy Johnson,Corporate
+CU-67043,Jane Miller,Consumer
+CU-68613,Robert Martinez,Corporate
+CU-91923,Chris Miller,Home Office
+CU-87084,Sarah Davis,Consumer
+CU-32997,Chris Jones,Home Office
+CU-74474,David Smith,Corporate
+CU-68254,Robert Davis,Consumer
+CU-88642,Amy Williams,Corporate
+CU-37932,Amy Johnson,Home Office
+CU-36164,Lisa Johnson,Consumer
+CU-40626,Sarah Johnson,Home Office
+CU-12080,Lisa Johnson,Consumer
+CU-79557,Emily Miller,Corporate
+CU-79437,John Garcia,Home Office
+CU-47920,Sarah Martinez,Corporate
+CU-95859,David Jones,Home Office
+CU-59416,Chris Williams,Home Office
+CU-93388,Amy Martinez,Corporate
+CU-97600,Emily Garcia,Corporate
+CU-93797,Robert Davis,Corporate
+CU-24904,Chris Garcia,Corporate
+CU-15697,Sarah Williams,Corporate
+CU-85847,John Rodriguez,Home Office
+CU-72045,John Williams,Home Office
+CU-97125,Amy Jones,Corporate
+CU-95550,Lisa Johnson,Corporate
+CU-70683,Amy Rodriguez,Consumer
+CU-63793,Amy Jones,Corporate
+CU-32363,Lisa Martinez,Home Office
+CU-51731,Sarah Brown,Home Office
+CU-20189,Sarah Rodriguez,Consumer
+CU-69658,Sarah Rodriguez,Home Office
+CU-21221,Amy Garcia,Home Office
+CU-17950,Jane Davis,Corporate
+CU-13297,Lisa Brown,Home Office
+CU-17238,Sarah Miller,Consumer
+CU-83582,David Williams,Consumer
+CU-42400,Emily Smith,Corporate
+CU-40945,Robert Martinez,Home Office
+CU-28372,David Garcia,Consumer
+CU-50300,Mike Jones,Corporate
+CU-83659,David Rodriguez,Consumer
+CU-42615,Robert Williams,Home Office
+CU-58407,Mike Smith,Corporate
+CU-22910,David Williams,Home Office
+CU-48492,Robert Garcia,Corporate
+CU-17965,Sarah Rodriguez,Home Office
+CU-44375,Lisa Johnson,Corporate
+CU-49639,Sarah Davis,Consumer
+CU-75560,Amy Smith,Consumer
+CU-92908,Amy Garcia,Home Office
+CU-60153,David Johnson,Corporate
+CU-49663,Chris Johnson,Home Office
+CU-74597,Sarah Rodriguez,Home Office
+CU-12855,Amy Miller,Home Office
+CU-46395,Amy Jones,Corporate
+CU-99608,Emily Miller,Consumer
+CU-89029,Jane Rodriguez,Consumer
+CU-48887,John Jones,Consumer
+CU-41835,John Garcia,Home Office
+CU-10630,Robert Garcia,Consumer
+CU-67620,Sarah Miller,Corporate
+CU-53694,John Rodriguez,Home Office
+CU-40250,Emily Rodriguez,Consumer
+CU-15362,Sarah Smith,Home Office
+CU-27050,Emily Smith,Corporate
+CU-69247,Sarah Miller,Corporate
+CU-26953,Robert Garcia,Consumer
+CU-80307,Chris Brown,Corporate
+CU-74437,Jane Williams,Corporate
+CU-55330,Amy Williams,Consumer
+CU-68157,John Brown,Consumer
+CU-57015,Lisa Davis,Home Office
+CU-37451,Emily Williams,Home Office
+CU-19109,Mike Williams,Corporate
+CU-98177,Mike Garcia,Home Office
+CU-74096,David Brown,Home Office
+CU-29116,Lisa Jones,Corporate
+CU-10063,John Johnson,Home Office
+CU-64765,Mike Garcia,Corporate
+CU-88548,Jane Smith,Consumer
+CU-55608,Mike Miller,Corporate
+CU-66180,John Brown,Corporate
+CU-88614,David Williams,Consumer
+CU-20063,John Rodriguez,Home Office
+CU-23603,Sarah Miller,Home Office
+CU-61315,Amy Miller,Corporate
+CU-86564,Jane Jones,Corporate
+CU-87110,Mike Miller,Corporate
+CU-66042,John Brown,Home Office
+CU-14886,Robert Davis,Consumer
+CU-42897,John Johnson,Home Office
+CU-45019,Sarah Martinez,Corporate
+CU-86347,Lisa Smith,Consumer
+CU-28394,Sarah Martinez,Home Office
+CU-76896,Amy Rodriguez,Consumer
+CU-26055,Robert Davis,Home Office
+CU-83172,Jane Garcia,Home Office
+CU-88366,Amy Garcia,Corporate
+CU-42190,Emily Brown,Home Office
+CU-48158,Emily Davis,Home Office
+CU-69940,Chris Garcia,Consumer
+CU-96992,Emily Jones,Consumer
+CU-92307,Sarah Rodriguez,Corporate
+CU-47433,Lisa Johnson,Corporate
+CU-99696,Amy Miller,Consumer
+CU-70096,John Rodriguez,Corporate
+CU-65584,Jane Davis,Home Office
+CU-60299,Sarah Davis,Corporate
+CU-95845,David Johnson,Corporate
+CU-14476,Lisa Rodriguez,Home Office
+CU-87474,Sarah Miller,Corporate
+CU-64953,Mike Garcia,Corporate
+CU-37887,Jane Johnson,Consumer
+CU-87937,Chris Garcia,Home Office
+CU-28139,Emily Johnson,Corporate
+CU-53445,Robert Brown,Corporate
+CU-66265,Mike Smith,Consumer
+CU-72064,Jane Smith,Home Office
+CU-29045,Mike Rodriguez,Home Office
+CU-48782,John Smith,Consumer
+CU-22608,Amy Rodriguez,Corporate
+CU-55936,Lisa Brown,Corporate
+CU-90527,Emily Williams,Consumer
+CU-27915,Lisa Johnson,Consumer
+CU-20925,Amy Smith,Home Office
+CU-46338,Mike Martinez,Home Office
+CU-32767,Amy Brown,Corporate
+CU-94153,Chris Brown,Consumer
+CU-59357,Chris Garcia,Corporate
+CU-15606,Emily Miller,Home Office
+CU-85810,Jane Brown,Home Office
+CU-90496,Robert Miller,Corporate
+CU-97685,Amy Rodriguez,Home Office
+CU-49908,Robert Williams,Consumer
+CU-82634,Lisa Brown,Home Office
+CU-34975,John Williams,Home Office
+CU-48996,Sarah Martinez,Home Office
+CU-29748,Sarah Rodriguez,Corporate
+CU-52200,Mike Davis,Home Office
+CU-74033,Sarah Jones,Home Office
+CU-34731,Emily Rodriguez,Corporate
+CU-20855,Lisa Johnson,Corporate
+CU-60956,Robert Williams,Consumer
+CU-95243,Emily Smith,Corporate
+CU-40087,Robert Smith,Corporate
+CU-89777,Amy Miller,Home Office
+CU-69718,Sarah Martinez,Home Office
+CU-72996,Mike Johnson,Corporate
+CU-70157,Emily Martinez,Consumer
+CU-92604,Robert Miller,Corporate
+CU-78830,Emily Williams,Home Office
+CU-85176,Mike Smith,Consumer
+CU-53517,David Jones,Home Office
+CU-43129,Lisa Miller,Corporate
+CU-95257,Amy Martinez,Consumer
+CU-75732,Sarah Williams,Home Office
+CU-75203,Mike Jones,Corporate
+CU-73662,Mike Davis,Consumer
+CU-73445,Jane Johnson,Corporate
+CU-58776,Jane Martinez,Home Office
+CU-28074,Amy Jones,Corporate
+CU-63492,Jane Brown,Corporate
+CU-17837,Jane Martinez,Home Office
+CU-42912,Chris Brown,Corporate
+CU-37650,David Smith,Home Office
+CU-83104,David Brown,Home Office
+CU-97131,David Williams,Corporate
+CU-16275,Amy Smith,Corporate
+CU-14829,Robert Smith,Corporate
+CU-48612,Lisa Johnson,Home Office
+CU-55834,Robert Jones,Consumer
+CU-70913,Lisa Williams,Consumer
+CU-93305,Sarah Miller,Home Office
+CU-71979,Amy Martinez,Consumer
+CU-35162,Lisa Smith,Home Office
+CU-21250,Emily Williams,Consumer
+CU-67730,Robert Johnson,Corporate
+CU-48262,David Brown,Consumer
+CU-23089,Sarah Miller,Corporate
+CU-74095,Lisa Williams,Home Office
+CU-41873,John Garcia,Corporate
+CU-47899,Emily Smith,Home Office
+CU-94735,Emily Williams,Consumer
+CU-10084,Mike Jones,Home Office
+CU-45504,Lisa Jones,Consumer
+CU-58821,Amy Miller,Home Office
+CU-26194,John Jones,Corporate
+CU-50196,Mike Martinez,Home Office
+CU-19853,John Davis,Home Office
+CU-80972,Amy Brown,Home Office
+CU-51981,Amy Rodriguez,Consumer
+CU-77758,Lisa Rodriguez,Corporate
+CU-92190,Chris Martinez,Home Office
+CU-67587,Emily Miller,Consumer
+CU-93227,David Jones,Consumer
+CU-60571,Lisa Williams,Home Office
+CU-83212,Amy Jones,Home Office
+CU-47947,Robert Williams,Corporate
+CU-36302,Lisa Rodriguez,Consumer
+CU-19442,Mike Garcia,Consumer
+CU-10094,Sarah Williams,Home Office
+CU-27498,Amy Miller,Home Office
+CU-71058,Jane Smith,Consumer
+CU-49101,Amy Jones,Corporate
+CU-13698,Mike Jones,Home Office
+CU-49792,Sarah Smith,Corporate
+CU-52010,Chris Jones,Corporate
+CU-49445,Jane Miller,Consumer
+CU-19398,Chris Rodriguez,Home Office
+CU-82462,Chris Johnson,Corporate
+CU-50691,Chris Miller,Home Office
+CU-87242,Emily Smith,Corporate
+CU-91345,Robert Brown,Home Office
+CU-82504,Chris Rodriguez,Corporate
+CU-23589,Amy Rodriguez,Corporate
+CU-80617,Jane Garcia,Corporate
+CU-83127,Robert Williams,Home Office
+CU-48854,Sarah Miller,Consumer
+CU-49843,Emily Rodriguez,Corporate
+CU-24403,Chris Smith,Consumer
+CU-26325,David Martinez,Consumer
+CU-31296,Emily Brown,Corporate
+CU-55447,Chris Rodriguez,Corporate
+CU-20379,Emily Jones,Home Office
+CU-15521,Jane Brown,Corporate
+CU-52420,Jane Davis,Home Office
+CU-17136,Sarah Brown,Consumer
+CU-29882,Amy Williams,Corporate
+CU-33669,Sarah Rodriguez,Consumer
+CU-68319,Emily Jones,Corporate
+CU-85943,Mike Brown,Corporate
+CU-50035,Chris Davis,Consumer
+CU-13421,Emily Rodriguez,Corporate
+CU-79774,Lisa Rodriguez,Corporate
+CU-58376,Mike Jones,Consumer
+CU-11636,Amy Garcia,Home Office
+CU-76756,Jane Martinez,Home Office
+CU-45332,Emily Jones,Consumer
+CU-73528,Jane Jones,Consumer
+CU-18937,Emily Garcia,Consumer
+CU-86495,Lisa Jones,Consumer
+CU-22715,David Garcia,Corporate
+CU-27339,Mike Smith,Corporate
+CU-92236,Chris Johnson,Consumer
+CU-21920,Jane Johnson,Consumer
+CU-31218,Jane Smith,Home Office
+CU-30378,Sarah Garcia,Corporate
+CU-75603,Lisa Rodriguez,Home Office
+CU-71925,Chris Jones,Consumer
+CU-11919,Sarah Johnson,Consumer
+CU-94916,Amy Jones,Home Office
+CU-58383,Lisa Johnson,Corporate
+CU-15398,Jane Miller,Consumer
+CU-16078,Amy Martinez,Home Office
+CU-98924,Amy Smith,Consumer
+CU-60688,Emily Rodriguez,Consumer
+CU-69365,Emily Davis,Home Office
